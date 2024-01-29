@@ -1627,6 +1627,42 @@ Hellami
 192869	4	b'Nuss'
 Nut 
 
+192879	35	b'Warmes Wasser ist irgendwie anders.'
+Somehow warm water is different.   
+
+192916	30	b'In dieses eiskalte Wasser... ?'
+Into this ice cold water...?  
+
+192947	37	b'Ich werd` mir einen Schnupfen holen !'
+I'll catch a cold!                   
+
+192985	49	b'Ich wei\xe1 nicht... dieser Schatten da im Wasser...'
+I don't know... this shadow there in the water...
+
+193042	9	b'Sieh an !'
+Look!    
+
+193052	33	b'Da f\x81hrt ein Pfad nach Nordosten.'
+A path leads northeast.          
+
+193086	46	b'Da f\x81hrt ein Weg hangabw\x84rts ins Tal hinunter.'
+A path leads down the slope into the valley.  
+
+193133	36	b'H\x81bsche Gegend hier. Und vor allem :'
+Pretty area here. And above all: no 
+
+193170	28	b'Keine Drakken in Sichtweite.'
+dragons in sight.           
+
+193199	14	b'Eine Golaanu\xe1.'
+A Golaa nut.  
+
+193214	33	b'Nicht weit vom Birnbaum gefallen.'
+Not far from the pear tree.      
+
+193248	19	b'Ein Pilz, ein Pilz.'
+Yay, a mushroom.   
+
 238323	29	b'Ziemlich zu, w\x81rde ich sagen.'
 Close, I'd say.              
 
@@ -1768,43 +1804,7 @@ Why, this is empty.
 239853	17	b'Sauerstoffpatrone'
 oxygen cartridge 
 
-192879	35	b'Warmes Wasser ist irgendwie anders.'
-Somehow warm water is different.
-
-192916	30	b'In dieses eiskalte Wasser... ?'
-Into this ice cold water...?
-
-192947	37	b'Ich werd` mir einen Schnupfen holen !'
-I'll catch a cold!
-
-192985	49	b'Ich wei\xe1 nicht... dieser Schatten da im Wasser...'
-I don't know... this shadow there in the water...
-
 193035	1	b' '
-
-193042	9	b'Sieh an !'
-Look!
-
-193052	33	b'Da f\x81hrt ein Pfad nach Nordosten.'
-A path leads northeast.
-
-193086	46	b'Da f\x81hrt ein Weg hangabw\x84rts ins Tal hinunter.'
-A path leads down the slope into the valley.
-
-193133	36	b'H\x81bsche Gegend hier. Und vor allem :'
-Pretty area here. And above all: no
-
-193170	28	b'Keine Drakken in Sichtweite.'
-dragons in sight.
-
-193199	14	b'Eine Golaanu\xe1.'
-A Golaa nut.
-
-193214	33	b'Nicht weit vom Birnbaum gefallen.'
-Not far from the pear tree.
-
-193248	19	b'Ein Pilz, ein Pilz.'
-Yay, a mushroom.
 
 193268	34	b'Ob der giftig ist ? Oder heilsam ?'
 
