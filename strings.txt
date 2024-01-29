@@ -1,0 +1,3274 @@
+8876	22	b'Jede Menge Golaan\x81sse.'
+A lot of Golaa nuts.  
+
+8899	30	b'Offenbar ist hier so etwas wie'
+This seems to be some kind of 
+
+8930	36	b'das Futterlager f\x81r die Flugdrachen.'
+food stash for the dragons.         
+
+8968	35	b'Hm. Wozu ist dieses Ding denn gut ?'
+Huh, what is this thing for?       
+
+9004	33	b'Das ist ein Knopf. Wie spannend !'
+This is a button, how fancy.     
+
+9038	37	b'Ich glaube, die la\xe1` ich lieber hier.'
+I think I shouldn't.                 
+
+9076	39	b'Ich sollte nun wirklich keine Zeit mehr'
+I really shouldn't waste any more time 
+
+9116	34	b'mit dieser Sprechanlage vergeuden.'
+with this intercom.               
+
+9151	62	b'Ich bin doch nicht bl\x94d. Die N\x81sse werd` ich einfach behalten.'
+Who am I kidding, I'll just keep deez nuts.                   
+
+9611	38	b'Das sollte ich lieber nicht versuchen,'
+I shouldn't try this, as long         
+
+9650	24	b'solange jemand hier ist.'
+as somebody is here.    
+
+9676	42	b'Da sind alle m\x94glichen Papiere ausgeh\x84ngt:'
+There are all kinds of papers hanging:    
+
+9719	61	b'Dienstpl\x84ne, Frachtpl\x84ne, Urlaubspl\x84ne, Zellenbelegungspl\x84ne,'
+duty roster, manifests, vacation plans, prisoner lists,      
+
+9781	40	b'Flugpl\x84ne, Planungspl\x84ne, Pl\x84nungsplane,'
+flight plans, planning planning plans,  
+
+9822	29	b'und so weiter, und so weiter.'
+and so forth, et cetera.     
+
+9852	48	b'Da steht, da\xe1 heute der Drakkenoffizier Kimbhuur'
+It says a Drakken officer Kimbhuur and a soldier
+
+9901	49	b'und ein Soldat namens Galfred Dienst haben. Soso.'
+called Galfred are on duty today. I see.         
+
+9951	44	b'Der Urlaub ist derzeit f\x81r alle gestrichen !'
+Vacation is canceled for everyone currently!
+
+9996	26	b'Na - hier geht`s ja zu...!'
+Well - oh...              
+
+10023	41	b'Da ist nur ein einziger Mann eingesperrt,'
+There's only once prisoner here, a man   
+
+10065	37	b'ein Mann namens Safuril, Zelle 203...'
+called Safuril, in cell 203...       
+
+10103	39	b'Oh nein, der Plan ist ja schon uralt - '
+Oh no, this plan is ancient -          
+
+10143	40	b'vom vorletzten Monat ! Du lieber Himmel,'
+two months old! Holy cow, what kind     
+
+10184	38	b'was ist das f\x81r eine Wirtschaft hier !'
+of business is this?!                 
+
+10223	50	b'Ein Schl\x81sselkasten. Mit vielen bunten Schl\x81sseln.'
+A key box. With lots of colorful keys.            
+
+10274	41	b'Da k\x94nnte man ja direkt auf Ideen kommen.'
+That brings me an idea or two.           
+
+10316	39	b'Da steht, da\xe1 heute ein Posten Werkzeug'
+It says a maintenance crew and material
+
+10356	39	b'und Material nach Wiesen-Sulzthal geht,'
+are ordered to Wiesen-Sulzthal today,  
+
+10396	35	b'und morgen Milit\x84r-Verpflegung nach'
+military rations to Berg-Wolkenhiem
+
+10432	20	b'Berg-Wolkenheim. Hm.'
+tomorrow. Huh.      
+
+10453	34	b'Ein Schl\x81ssel mit wei\xe1em Anh\x84nger.'
+A key with a white tag.           
+
+10488	34	b'Ein Schl\x81ssel mit gr\x81nem Anh\x84nger.'
+A key with a green tag.           
+
+10523	39	b'Ein Schl\x81ssel mit einem roten Anh\x84nger.'
+A key with a red tag.                  
+
+10563	40	b'Ein Schl\x81ssel mit einem gelben Anh\x84nger.'
+A key with a yellow tag.                
+
+10604	37	b'Ein Schl\x81ssel mit schwarzem Anh\x84nger.'
+A key with a black tag.              
+
+10642	35	b'Ein Schl\x81ssel mit orangem Anh\x84nger.'
+A key with an orange tag.          
+
+10678	41	b'Ein Schl\x81ssel mit einem braunen Anh\x84nger.'
+A key with a brown tag.                  
+
+10720	34	b'Ein Schl\x81ssel mit blauem Anh\x84nger.'
+A key with a blue tag.            
+
+10755	40	b'Ein Schl\x81ssel mit einem grauen Anh\x84nger.'
+A key with a gray tag.                  
+
+10796	21	b'Schade. Die ist leer.'
+Too bad, empty.      
+
+10818	39	b'Eine Schublade. Wahrscheinlich sind nur'
+A drawer. Probably just contains       
+
+10858	26	b'Formulare oder sowas drin.'
+forms or something.       
+
+10885	25	b'Tja. Das war wohl nichts.'
+Well, too bad.           
+
+10911	44	b'Da liegen einige Formulare in der Schublade.'
+There're some forms in the drawer.          
+
+10956	38	b'Ich kann nichts N\x81tzliches mehr in der'
+I can't find anything else useful     
+
+10995	17	b'Schublade finden.'
+in the drawer.   
+
+11013	35	b'Oh. Das sind ja... Urlaubsscheine !'
+Oh, these are ... leave orders!    
+
+11049	49	b'Und der oberste ist schon blanko unterschrieben !'
+And the top one is signed blank.                 
+
+11099	44	b'Der Bursche sieht nicht ganz so finster aus.'
+This fella looks sinister.                  
+
+11144	25	b'Ein H\x94hlenweltler-Soldat.'
+A cave world soldier.    
+
+12658	52	b'Ein H\x94hlenweltler... offenbar im Dienst der Drakken.'
+A cave wolrdler... in service for the Drakken.      
+
+12712	35	b'Puuh... ein echt ungem\x81tlicher Typ.'
+Ugh... this guy is so serious.     
+
+12748	38	b'Wenn das dieser Stadtkommandeur ist...'
+If this is the city commander...      
+
+12787	35	b'...dann la\xe1` ich ihn besser in Ruh.'
+...well, I should leave him be.    
+
+13060	39	b'Das ist mal ein richtig sch\x94ner Tisch !'
+What a beautiful table!                
+
+13203	19	b'Eine kleine Statue.'
+A small statue.    
+
+13223	41	b'Davon gibts hier ja so manche in Veldoor.'
+They have many like these in Veldoor.    
+
+13266	42	b'Das wird doch nicht DER Kristall sein...!?'
+Could it be THE crystal...!?              
+
+13309	21	b'Ein Drachenmaul. Tja.'
+Huh, a dragon mouth. 
+
+13331	38	b'Mist ! Ich krieg` ihn nicht zu fassen.'
+Shit! I can't reach it.               
+
+13370	14	b'Hauptschl\x81ssel'
+main key      
+
+13385	44	b'Eigentlich m\x81\xe1te der Schl\x81ssel nun weg sein.'
+The key should be gone now.                 
+
+13430	54	b'Leider ist die passende Animation noch nicht erstellt.'
+Unfortunately the animation doesn't exist yet.        
+
+13485	43	b'Aber der Schl\x81ssel IST in der Iconleiste !!'
+But the key IS in the icon bar!!           
+
+13529	12	b'Wetten das ?'
+Wanna bet?  
+
+14017	29	b'Das sagenumwobene Sekamidoor.'
+The legendary Sekamidoor.    
+
+14047	34	b'Die Vergessene Stadt der Manyana !'
+The forgotten city of Manyana!    
+
+14083	40	b'Das mu\xe1 der Stein der \x8eonen sein. Er hat'
+This must be the stone of eons. It has  
+
+14124	35	b'irgendeine geheimnisvolle Funktion.'
+some mysterious function.          
+
+14160	25	b'Das mu\xe1 das Geheimnis der'
+This must be the secret  
+
+14186	23	b'Vergessenen Stadt sein.'
+of the forgotten city. 
+
+14210	39	b'Scheint so, als h\x84tten diese drei T\x81rme'
+Seems like these three towers waited   
+
+14250	32	b'tausend Jahre darauf gewartet...'
+for thousands of years...       
+
+14283	48	b'...da\xe1 jemand die Manyana Spiegel dort einsetzt.'
+for somebody to insert the Manyana mirrors.     
+
+14332	38	b'Erstaunlich. Fast wie ein Laserstrahl.'
+Amazing. Almost like a laser ray.     
+
+14371	35	b'Diese alten Manyana-Priester hatten'
+These old Manyana priests were     
+
+14407	39	b'offenbar ganz sch\x94n was auf den Kasten.'
+pretty smart it seems. Big brain!      
+
+14447	23	b'Drei gro\xe1e Steinquader.'
+Three big stone blocks.
+
+14471	28	b'Wirklich r\x84tselhafte Dinger.'
+Real mysterious things.     
+
+14500	25	b'Wof\x81r die wohl gut sind ?'
+What they might be for?  
+
+14526	43	b'Das ist Gusmar, der W\x84chter von Sekamidoor.'
+This is Gusmar, the guardian of Sekamidoor.
+
+14570	29	b'Da steckt der Quel-Than drin.'
+It has the quel-Than inside. 
+
+14600	34	b'Hm. Da ist ein kleines Loch in der'
+Huh, there's a small hole in the  
+
+14635	39	b'Oberfl\x84che des Steins. Schwer zu sagen,'
+surface of hte stone. Hard to tell,    
+
+14675	18	b'wof\x81r das gut ist.'
+what it's for.    
+
+14694	27	b'Da sind ovale Vertiefungen.'
+There are oval indentations
+
+14722	28	b'Wof\x81r die wohl gut sind...?!'
+What are they for...?!      
+
+15450	35	b'Da liegt das sagenhafte Sekamidoor.'
+There is the legendary Sekamidoor. 
+
+15486	30	b'Und ich hab`s wiederentdeckt !'
+And I've rediscovered it!     
+
+15518	35	b'Hey ! Das ist ja eine Entdeckung...'
+Hey! What a discovery...           
+
+15554	51	b'Da mu\xe1 irgendeine uralte verfallene Stadt liegen...'
+There must be some ancient decayed city...         
+
+15606	34	b'Eine alte, verfallene Tempelstadt.'
+An old decayed city.              
+
+15641	41	b'Eine echt abenteuerliche Landschaft hier.'
+A real adventurious landscape here.      
+
+15683	43	b'Hier ist sicher lange niemand mehr gewesen.'
+I'm sure nobody has been here in ages.     
+
+15975	38	b'Wer h\x84tte gedacht, da\xe1 mir dieser olle'
+Who would have thought this old       
+
+16014	42	b'Handschuh nochmal so sehr von nutzen ist ?'
+glove would be of use.                    
+
+16058	39	b'Ich glaube, jetzt habe ich genug davon.'
+I think I have enough of this.         
+
+16098	30	b'Was soll ich mit den Flocken ?'
+What should I do with these?  
+
+16129	37	b'Freier, h\x94hlenweltlerischer Luftraum.'
+Free, cave worlder's air space.      
+
+16167	35	b'Wenn ich doch nur fliegen k\x94nnte...'
+If only I could fly...             
+
+16203	36	b'H\x84tte gar nicht gedacht, da\xe1 es hier'
+I wouldn't have thought that there's
+
+16240	25	b'so eine gro\xe1e H\x94hle gibt.'
+a huge cave here.        
+
+16266	24	b'Eine matschige Golanuss.'
+A smushy Gola nut.      
+
+16291	33	b'Das mu\xe1 dieses Drachenfeuer sein,'
+This must be dragon fire,        
+
+16325	44	b'von dem der Mann in dem Vortrag erz\x84hlt hat.'
+the guy in the presentation talked about.   
+
+16370	24	b'Hm... was mag das sein ?'
+Huh, what could this be?
+
+16395	20	b'Wei\xe1liche Flocken...'
+White flakes...     
+
+16985	28	b'Das Portal ist verschlossen.'
+The portal is closed.       
+
+17015	43	b'Da gehts zur\x81ck in die Welt der Lebenden...'
+That way back to the world of the living...
+
+17059	19	b'Ein solides Portal.'
+A solid portal.    
+
+17079	41	b'M\x94chte wissen wo der Schl\x81ssel daf\x81r ist.'
+I want to know where the key for this is.
+
+17121	32	b'Steinpyramiden gibt`s hier genug'
+Enough stone pyramids here for  
+
+17154	17	b'f\x81r 10 Abenteuer.'
+ten adventures.  
+
+17172	27	b'Das Portal ist verriegelt !'
+The portal is locked!      
+
+17200	6	b'Portal'
+Portal
+
+17207	8	b'Pyramide'
+Pyramid 
+
+17216	27	b'Die Pyramide ist blockiert.'
+The pyramid is blocked.    
+
+17244	5	b'Wow !'
+Wow! 
+
+17250	31	b'Alle Riegel sind verschwunden !'
+All locks are gone!            
+
+19638	33	b'Tja, ich wei\xe1 gut, wer das ist...'
+Well I know who that is...       
+
+19673	36	b'Da sind wohl die Zimmer der Pension.'
+Those are the rooms of the pension. 
+
+19710	34	b'Da gehts zur\x81ck in die Wirtsstube.'
+That way goes back to the inn.    
+
+19949	36	b'Das sind ziemlich finstere Gesellen.'
+Those are pretty sinister guys.     
+
+19987	52	b'In der W\x81ste gibt es ungez\x84hlte riesige Felspfeiler.'
+There are a lot of huge rock pillars in the desert. 
+
+47621	13	b'Globales Menu'
+Global Menu  
+
+48708	4	b'Buch'
+Book
+
+48713	5	b'Karte'
+Map  
+
+48719	9	b'Landkarte'
+Map      
+
+78949	11	b'R1LampenAus'
+R1LampenAus
+
+78961	10	b'R1LampenAn'
+R1LampenAn
+
+78972	17	b'Sicherheitsschlo\xe1'
+security lock    
+
+78990	9	b'Masterkey'
+Masterkey
+
+79000	7	b'MaskeAb'
+MaskeAb
+
+79008	36	b'Aaaah. Endlich wieder Frischluft...!'
+Aaaah, finally fresh air!           
+
+79046	12	b'Essenbringen'
+Bringfood   
+
+79059	12	b'Na Kumpel ! '
+Hey buddy!  
+
+79072	37	b'Hier gibts einen kleinen Vorgeschmack'
+A little taste                       
+
+79110	23	b'auf die Minen... Haha !'
+on the mines... haha!  
+
+79134	9	b'Blechnapf'
+tin can  
+
+79144	8	b'MaskeAuf'
+MaskeAuf
+
+79153	49	b'Die Athmosph\x84re da drau\xe1en ist d\x81nn und ungesund.'
+The atmosphere outside is thin and unhealthy.    
+
+82739	22	b'Spielstand gesichert !'
+Game saved.           
+
+133893	9	b'Durchgang'
+passage  
+
+133912	9	b'Edelstein'
+gem      
+
+133922	7	b'Ausgang'
+exit   
+
+133930	32	b'Da f\x81hrt kein direkter Weg hin !'
+No path is leading there!       
+
+133964	27	b'Steinpyramiden ohne Ende...'
+Stone pyramids everywhere. 
+
+133992	18	b'Lauter Durchg\x84nge.'
+More paths.       
+
+134011	22	b'Ein kleiner Edelstein.'
+A small gem.          
+
+134034	35	b'Genau von der Sorte, die ich suche.'
+Exactly the kind I need.           
+
+134070	48	b'Sieht so aus, als w\x84re da ein kleiner Edelstein.'
+There seems to be a small gem.                  
+
+134147	37	b'Da komme ich von hier aus nicht dran.'
+I can't get there from here.         
+
+140953	33	b'Mir geht langsam die Luft aus...!'
+I'm running out of air!          
+
+140988	37	b'...urks... jetzt mu\xe1 ich aber hoch...'
+...oof... but I have get go up...    
+
+141026	31	b'Dazu fehlt`s mir an Atemluft...'
+But I need breathing air...    
+
+141058	30	b'Das ist die WasserUNTERfl\x84che.'
+That's water UNDER surface.   
+
+141089	39	b'Da lehnt...ein Felsen an der Wand. Tja.'
+There's... a rock leaning on the wall. 
+
+141129	39	b'Aha. Meine Pyramiden-Dr\x81ckerei hat sich'
+Well, my pyramid pushing did something,
+
+141169	29	b'ausgezahlt, wie es scheint...'
+finally.                     
+
+141199	23	b'Was f\x81r ein Herzchen...'
+What a sweetheart...   
+
+141223	44	b'Sowas fehlt mir noch f\x81r mein Goldfischglas.'
+I could use that for my goldfish bowl.      
+
+141268	24	b'Na, die ist erstmal k.o.'
+She's k.o. for now.     
+
+141293	40	b'Fragt sich nur, wie lange das vorh\x84lt...'
+Question is, for how long...            
+
+141334	37	b'Da sind kleine K\x81gelchen an den Enden'
+It has small beads at the ends       
+
+141372	42	b'der Fangarme. Wahrscheinlich enthalten sie'
+of the tentacles. They might contain      
+
+141415	40	b'ein furchtbar gef\x84hrliches Gift oder so.'
+some poison or something.               
+
+141456	20	b'Oder auch nicht. Hm.'
+Or maybe now.       
+
+141477	36	b'Puuh... das ist echt starker Tobak !'
+Holy cow!                           
+
+141514	9	b'K\x81gelchen'
+Beads    
+
+141524	24	b'Man mu\xe1 alles mitnehmen,'
+One must pick up all    
+
+141549	23	b'was man kriegen kann...'
+the things...          
+
+141573	23	b'Eines sollte reichen...'
+On should be enough.   
+
+142705	4	b'Ufer'
+land
+
+142710	3	b'See'
+sea
+
+142714	11	b'Schwemmholz'
+drift wood 
+
+142726	4	b'Baum'
+tree
+
+142731	6	b'B\x81sche'
+bushes
+
+142738	4	b'Pilz'
+Pilz
+
+142752	11	b'Daaa rein ?'
+In there?? 
+
+142764	36	b'Das sieht aus, als w\x84re es geeignet,'
+Looks like this is it,              
+
+142801	31	b'Frischfleisch einzufrieren... !'
+to freeze fresh meat...!       
+
+142833	28	b'Oooh nein... lieber nicht...'
+Ohh no, better not...       
+
+142863	26	b'Eine dritte Steinpyramide.'
+A third stone pyramid.    
+
+142890	47	b'Jetzt kann`s ja nicht mehr allzu schwer sein...'
+The rest can't be too hard now...              
+
+142938	24	b'Noch so eine Pyramide...'
+Another pyramid...      
+
+142963	30	b'Eindeutig zu kalt f\x81r ein Bad.'
+Clearly too cold for a bath.  
+
+142994	23	b'Ein Haufen Schwemmholz.'
+A pile of drift wood.  
+
+143018	26	b'Hier sieht man das Geb\x81sch'
+You can't see the bush    
+
+143045	27	b'vor lauter B\x81schen nicht...'
+among all bushes...        
+
+143073	5	b'Hm...'
+Huh. 
+
+143079	33	b'T\x84uscht das... oder ist da ...?!?'
+Am I imagining things, or is...  
+
+143113	24	b'Ein Pilz, ein Pilz. Tja.'
+A mushroom! Well.       
+
+143138	41	b'Ob der giftig ist, oder Sodbrennen heilt,'
+If it's poisenous, or heals heartburn,   
+
+143180	28	b'oder Murgos verjagen kann...'
+or chases Murgos away...    
+
+143209	35	b'wei\xe1 vielleicht mein schlaues Buch.'
+maybe my smart book can tell me.   
+
+143245	41	b'Das ist, wenn mich nicht alles t\x84uscht...'
+If I'm not mistaken, then this is...     
+
+143287	17	b'...ein Golaabaum.'
+...a Golaa tree. 
+
+143305	43	b'Ich habe die Schlingpflanze schon bet\x84ubt !'
+I already numbed the vine!                 
+
+143349	35	b'Hei ! Was erblickt da mein Auge...?'
+Wow, what do I see there...?       
+
+143385	26	b'Dazu gibt es keinen Grund.'
+There's no need.          
+
+143412	12	b'Na bitte...!'
+There...!   
+
+143425	11	b'Na bitte...'
+There...   
+
+143437	40	b'Hm. Dr\x81cken geht nicht, wie`s scheint...'
+Um, pressing doesn't seem to do it...   
+
+143478	21	b'Das Zeug ist zu hart.'
+That's too hard.     
+
+143500	26	b'L\x84\xe1t sich nicht ausrei\xe1en.'
+Can't pull it out.        
+
+148095	17	b'Meine treue Susi.'
+My trusty Susi.  
+
+148113	27	b'Was t\x84t` ich nur ohne sie ?'
+What'd I do without her?   
+
+148142	33	b'Nett. Hier l\x84\xe1t sich`s aushalten.'
+Oh it's really nice here.        
+
+148231	36	b'Ein gem\x81tlicher Platz f\x81r eine Rast.'
+a cozy place for resting.           
+
+148268	39	b'Hier gibt es nichts, was einen anficht.'
+Nothing here snarling at me.           
+
+148308	34	b'Die H\x81tte von Zep, dem Einsiedler.'
+The cabin of Zep, the hermit.     
+
+148343	34	b'Sieht so aus, als wohnte der schon'
+Looks like he lives here since    
+
+148378	20	b'ziemlich lange hier.'
+a very long time.   
+
+148399	20	b'Was ist denn das...?'
+What's this...      
+
+148420	7	b'Hmmm...'
+Huh... 
+
+148428	24	b'Eine Pyramide aus Stein.'
+A pyramid of stone.     
+
+148453	32	b'Ziemlich verd\x84chtig, find ich...'
+Sus...                          
+
+148486	20	b'Zep, der Einsiedler.'
+Zep, the hermit.    
+
+148507	29	b'Ein richtiger Lebensk\x81nstler.'
+A real spiv.                 
+
+148537	25	b'Dem Burschen scheint`s ja'
+This lad seems to be     
+
+148563	21	b'richtig gut zu gehen.'
+doing really well.   
+
+148585	54	b'Vielleicht sollte ich WIRKLICH Zep lieber fragen...! ?'
+Maybe I should ACTUALLY ask Zep first...!?            
+
+148640	54	b'Hm. Vielleicht sollte ich vorher Zep lieber fragen...?'
+Um, maybe I should ask Zep first...?                  
+
+148745	39	b'Holla ! Jetzt passiert endlich was... !'
+Yay, something's finally happening!    
+
+154330	13	b'Urlaubsschein'
+leave order  
+
+154344	34	b'Lieber nicht. Ich hab` schon zwei.'
+Better not, I already have two.   
+
+154379	20	b'Das w\x81rde auffallen.'
+That's obstrusive.  
+
+154400	9	b'Schublade'
+drawer   
+
+154410	28	b'Pech. Die ist abgeschlossen.'
+Damn, it's locked.          
+
+154439	41	b'Wozu. Die Schublade ist doch schon offen.'
+Why, the drawer is already open.         
+
+154481	30	b'Hm. Der Schl\x81ssel passt nicht.'
+Oh, the key doesn't fit.      
+
+154512	16	b'wei\xe1er Schl\x81ssel'
+white key       
+
+154529	16	b'gr\x81ner Schl\x81ssel'
+green key       
+
+154546	15	b'roter Schl\x81ssel'
+red key        
+
+154562	16	b'gelber Schl\x81ssel'
+yellow key      
+
+154579	19	b'schwarzer Schl\x81ssel'
+black key          
+
+154599	17	b'oranger Schl\x81ssel'
+orange key       
+
+154617	17	b'brauner Schl\x81ssel'
+brown key        
+
+154635	16	b'blauer Schl\x81ssel'
+blue key        
+
+154652	16	b'grauer Schl\x81ssel'
+gray key        
+
+159227	43	b'Dichter Urwald, abgelegen... wie geschaffen'
+Thick jungle, remote... As if it was made  
+
+159271	30	b'f\x81r einen einsamen Einsiedler.'
+for a lone hermit.            
+
+159303	22	b'Hier kommt man absolut'
+Only way to get here  
+
+159326	24	b'nur auf dem Luftweg hin.'
+is by air.              
+
+159351	36	b'Da f\x81hrt ein Pfad zu einer Lichtung.'
+A path leads to a clearing.         
+
+159434	46	b'Hier droben soll also dieser Josbaol leben...?'
+This Josbaol would live up here...?           
+
+159481	35	b'Eine kleine lila Bl\x81te. Wie h\x81bsch.'
+A small purple flower. How pretty. 
+
+159517	37	b'Da steht noch der Stengel der kleinen'
+The stem of the small flower, that I 
+
+159555	30	b'Bl\x81te, die ich gepfl\x81ckt habe.'
+just picked, is still here.   
+
+159586	7	b'Stengel'
+stem   
+
+159594	38	b'Sieh an - da ist eine ganz verhutzelte'
+Look - there's a wrinkled root at the 
+
+159633	23	b'Wurzel am unteren Ende.'
+bottom end.            
+
+160315	34	b'Da geht es in den Tempel hinein...'
+This is the way into the temple.  
+
+160350	38	b'Wer wei\xe1, ob die hier Fremde m\x94gen...?'
+Who knows if they like foreignhers... 
+
+160390	44	b'Da\xe1 es hier oben einen alten Tempel gibt...?'
+Strange having an old temple up here...     
+
+160435	31	b'Der mu\xe1 Jahrtausende alt sein !'
+Must be thousands of years old 
+
+160467	26	b'Da gehts zur\x81ck zu Susi...'
+This leads back to Susi.  
+
+160494	51	b'Das ist Josbaol, der Einsiedler, der hier oben lebt'
+That is Jasbaol, the hermit that lives up here     
+
+160546	40	b'- v\x94llig abgeschieden vom Rest der Welt.'
+- completely cut off from the world.    
+
+160587	41	b'Der einzige Mensch hier - weit und breit.'
+The only human - far and wide.           
+
+160629	34	b'Wie es scheint, sind es immer noch'
+It looks like it's still a couple 
+
+160664	40	b'ein paar Kilometer bis zum Felsenhimmel.'
+of kilometers to the Felsenhimmel.      
+
+161173	40	b'Ich glaube, die beachten mich gar nicht.'
+I think they don't notice me at all.    
+
+161215	41	b'Dort geht es zur\x81ck nach Berg-Wolkenheim.'
+That's the way back to Berg-Wokenheim.   
+
+161257	9	b'Eine T\x81r.'
+A door.  
+
+161267	54	b'Sie f\x81hrt offenbar in die hinteren Teile des Geb\x84udes.'
+It seems to lead to the back part of the building.    
+
+161322	3	b'Hm.'
+Oh.
+
+161326	32	b'Die Berg-Wolkenheimer m\x81ssen ein'
+The Berg-Wokenheim people seem  
+
+161359	27	b'ganz eigenes V\x94lkchen sein.'
+to be a bit weird.         
+
+161387	37	b'Hier in dieser abgelegenen Stadt sind'
+In this remote city are no Drakken   
+
+161425	40	b'\x81berhaupt keine Drakken, wie es scheint.'
+at all, it looks like.                  
+
+161466	9	b'Der Wirt.'
+The owner
+
+161476	47	b'Offenbar ein vierschr\x94tiger, ungem\x81tlicher Typ.'
+Apparently a very unpleasant guy.              
+
+161524	44	b'Mit dem ist sicher nicht gut Kirschen essen.'
+I'd better be careful around this guy.      
+
+161569	19	b'Der doofe Guldonor.'
+Stupid Guldonor.   
+
+161589	46	b'Man sollte ihn verjagen, diesen miesen Kollie.'
+This mean twat should be cased away.          
+
+161636	23	b'Die T\x81r ist schon auf !'
+The door is open.      
+
+161660	29	b'Pech ! Die ist abgeschlossen.'
+Fuck! It's locked.           
+
+162365	36	b'Ein h\x81bsches St\x84dtchen. Und ohne die'
+A cute city. And without the        
+
+162402	33	b'Drakken w\x84r`s wohl noch h\x81bscher.'
+Drakken it would be even cuter.  
+
+162437	45	b'Vielleicht sollte ich die Drakken mal fragen,'
+Maybe I should ask the Drakken, whether      
+
+162483	57	b'ob sie nicht lieber langsam mal wieder nach Hause wollen.'
+they would rather go back home by now.                   
+
+162541	40	b'Diese Kasernenmauer ist ein Schandfleck.'
+This barrack wall is an eyesore.        
+
+162582	27	b'Ein Wachh\x84uschen. Wie nett.'
+A guard house, how nice.   
+
+162610	25	b'Ein ziemlich solides Tor.'
+A pretty solid door.     
+
+162636	34	b'Da br\x84uchte man schon ein schweres'
+I'd need a pretty heavy laser     
+
+162671	40	b'Lasergesch\x81tz, wollte man da eindringen.'
+cannon to break in there.               
+
+162712	11	b'Ein Soldat.'
+A soldier. 
+
+162724	31	b'Hochmotiviert, wie er aussieht.'
+He looks highly motivated.     
+
+163102	33	b'Eine Institution gegen den Durst.'
+An institution agains thirst.    
+
+163136	16	b'Sehr lobenswert.'
+Commendable.    
+
+163154	38	b'Eine Gem\x81seh\x84ndlerin. Da gibt`s alles,'
+A vegetable merchant. She sells all   
+
+163193	32	b'was die Gegend an frischen Feld-'
+kinds of fresh field and garden 
+
+163226	33	b'und Gartenfr\x81chten zu bieten hat.'
+fruits this area has to offer.   
+
+163260	30	b'Ziemlich ungew\x94hnliche Sachen.'
+Pretty strange things.        
+
+163291	41	b'Wer wei\xe1, ob mein Magen das Zeug aush\x84lt.'
+Who knows if my tummy can deal with it.  
+
+163333	51	b'Das sind die hierzulande wohlbekannten Golaan\x81sse -'
+Those are the locally well known Golaa nuts - the  
+
+163385	37	b'das Lieblingsfutter aller Flugechsen.'
+favorite food of all flying lizards. 
+
+163423	36	b'Eine Holzkiste. Kr\x84ftig und solide -'
+A wooden box. Strong and solid -    
+
+163460	24	b'aber offenbar herrenlos.'
+yet abandoned it seems. 
+
+163485	21	b'Wem die wohl geh\x94rt ?'
+Who might it be for? 
+
+163507	35	b'Die gute Frau guckt ziemlich streng'
+This good lady has a stern look.   
+
+163543	51	b'aus der W\x84sche. Besser, ich vergreife mich nicht an'
+I better stay clear of her goods until asking      
+
+163595	32	b'ihren Waren, ohne sie zu fragen.'
+her first.                      
+
+163628	39	b'Hm - vielleicht geh\x94rt sie jemanden...?'
+Oh - maybe it belongs to somebody...?  
+
+164246	33	b'Ich glaub`, ich sollte Susi nicht'
+I think I shouldn't leave Susi   
+
+164280	30	b'einfach so hier stehen lassen.'
+here all by herself.          
+
+164312	25	b'Die hieseigen Stallungen.'
+The local stables.       
+
+164338	28	b'Hier kann man seinen Drachen'
+You can leave your dragons  
+
+164367	27	b'eine Zeitlang unterbringen.'
+here for a while.          
+
+164395	28	b'F\x84sser, Kisten und K\x84sten...'
+Barrels, crates and boxes.  
+
+164424	21	b'Lauter Frachtgut, das'
+Lots of cargo that's 
+
+164446	26	b'irgendwohin unterwegs ist.'
+on it's way somewhere.    
+
+164473	30	b'Da geht`s in die Stadt hinein.'
+That's the way into the city. 
+
+164504	31	b'Das ist wohl derjenige, dem die'
+This must be the guy who owns  
+
+164536	31	b'Drachenstallungen hier geh\x94ren.'
+the dragon stables here.       
+
+164568	21	b'Gutes, altes M\x84dchen.'
+Good old girl.       
+
+164590	27	b'Ich mu\xe1 erst meine Schulden'
+First I have to pay off my 
+
+164618	27	b'beim Stallmeister bezahlen.'
+debt to the stable master. 
+
+165131	18	b'Ziemlich eng hier.'
+Pretty narrow.    
+
+165151	34	b'Die ist verriegelt und verrammelt.'
+It's closed shut.                 
+
+165186	41	b'Kisten, K\x84sten, Tonnen, F\x84sser und S\x84cke.'
+Crates, boxes, tons, barrles and sacks.  
+
+165228	34	b'Lauter Frachtgut nach irgendwohin.'
+Lots of cargo to somewhere.       
+
+165263	40	b'Das ist das M\x84dchen aus der Wachh\x81tte...'
+That's the girl from the guardhouse...  
+
+165557	43	b'Diese Drachenstatuen kehren immer wieder...'
+These dragon statues keep returning...     
+
+165602	23	b'Ein kleiner Edelstein !'
+A small gem!           
+
+165626	29	b'Sieh an - ein altes Relikt...'
+Look at that, an old relic.  
+
+165656	38	b'Da gehts wieder hinaus aus dem Tempel.'
+That's the way out of the temple.     
+
+166127	30	b'Das ist die Sorte von W\x81ste...'
+This is the kind of desert... 
+
+166158	52	b'...aus der noch nie jemand zur\x81ckgekehrt ist und so.'
+...nobody has ever came back from.                  
+
+166212	13	b'Mann-o-Mann !'
+Oh man!      
+
+166226	34	b'Sieht tats\x84chlich so aus, als h\x84tt'
+It looks like I've actually       
+
+166261	47	b'ich das sagenumwobene Lakkasoor wiederentdeckt.'
+rediscovered the legendary Lakkasoor.          
+
+166309	23	b'Das gute, alte Mullooh.'
+The good old Mullooh.  
+
+166333	39	b'Hat nach dieser langen Zeit tats\x84chlich'
+Finally found after all this time the  
+
+166373	30	b'noch den Weg hierher gefunden.'
+way here.                     
+
+166404	42	b'Der Eingang - ins Reich der Vergangenheit.'
+The entrance into the realm of the past.  
+
+166792	20	b'Eine uralte Ruine...'
+An ancient ruin...  
+
+166814	39	b'Da beginnt die W\x81ste von S\x81d-Veldoor...'
+There's the desert of south Veldoor... 
+
+166854	47	b'Das mu\xe1 irgendein Relikt aus alten Zeiten sein.'
+Must be some relic from ancient times.         
+
+166902	34	b'Vielleicht ein G\x94tzenbild oder so.'
+Maybe some kind of idol.          
+
+166937	25	b'Ein einsames Mullooh...!?'
+A lonely Mullooh...!?    
+
+166963	23	b'Was tut denn das hier ?'
+What's it doing here?  
+
+167364	34	b'Da sitzt ja immer noch der Diktor.'
+The Diktor is over there still.   
+
+167400	18	b'Ein M\x81\xe1igg\x84nger...'
+A trifler...      
+
+167419	30	b'Die Metropole von S\x81d-Veldoor.'
+The metropolis south Veldoor. 
+
+167450	34	b'Da hat eine H\x84ndlerin ihren Stand.'
+There's merchant's stand.         
+
+167485	44	b'T\x94pfe, Pfannen, Lebensmittel, Antiqut\x84ten...'
+Pots, pans, foods, antiques...              
+
+167530	32	b'Die Gute sieht aus, als w\x84re sie'
+This lady looks like she's      
+
+167563	30	b'mit allen Wassern gewaschen...'
+seen it all...                
+
+167594	46	b'Hier m\x94chte ich mal eine Kreuzfahrt starten...'
+I'd love to start a cruise here...            
+
+167641	36	b'Da gehts zum Flugplatz. Und zu Susi.'
+The path to the airport. And Susi.  
+
+168260	49	b'Das ist Osthor, der Besitzer dieses Kr\x84merladens.'
+This is Osthor, the owner of this general store. 
+
+168311	31	b'Sieht so aus wie die Ausr\x81stung'
+Looks like the gear of a whole 
+
+168343	24	b'einer ganzen Seilschaft.'
+roped party.            
+
+168368	32	b'Und mehr als nur einmal benutzt.'
+And used more than once.        
+
+168401	40	b'Unglaublich ! Hier gibt es Sahnetorten -'
+Amazing! They have cream cake here -    
+
+168442	25	b'wie frisch vom Konditor !'
+from a pastry chef!      
+
+168468	31	b'Sahnetorten. Wie geschaffen f\x81r'
+Cream cakes. Like those from a 
+
+168500	32	b'einen Film mit Charlie Chaplin !'
+Carlie Chaplin movie!           
+
+168533	34	b'Diese Dose erinnern mich an was...'
+This tin can reminds me of...     
+
+168568	41	b'Das ist mal ein richtig sch\x94nes Messer...'
+That's a real nice knife...              
+
+168610	56	b'Aha, eine Eintrittskarte. Wahrscheinlich f\x81r eine dieser'
+Ah, a ticket. Probably for one of those events held     
+
+168667	47	b'Veranstaltungen im Rahmen des Z\x81chter-Treffens.'
+during the breeder meetups.                    
+
+171523	36	b'Ich glaube, ich sollte Susi nicht so'
+I think I shouldn't leave Susi here 
+
+171560	32	b'einfach hier herumstehen lassen.'
+all by herself.                 
+
+171647	36	b'Der Mullooh-Verleih von S\x81dmeerfleck'
+Mullooh rental of South-Meerfleck   
+
+171684	30	b'Soll nicht gerade billig sein.'
+Probably not even cheap.      
+
+171715	32	b'Die Stallungen von S\x81dmeerfleck.'
+The stables of South Meerfleck. 
+
+171748	44	b'Hier hat dieser Oberkollie Remgur das Sagen.'
+That major twat Remgur is in charge here.   
+
+171811	27	b'Was t\x84t` ich nur ohne Sie ?'
+What'd I do without her?   
+
+171839	15	b'Das ist Remgur.'
+This is Remgur.
+
+171855	24	b'Ginbart w\x84r` mir lieber.'
+I'd prefer Ginbart.     
+
+171880	17	b'Die sch\x94ne Alina.'
+Beautiful Alina. 
+
+171898	33	b'Maomi d\x81rfte nicht sehen, mit wem'
+Maomi mustn't see who I'm        
+
+171932	27	b'ich so alles Umgang habe...'
+hanging out with...        
+
+171960	31	b'Das ist offenbar die Besitzerin'
+Apparently this is the owner of
+
+171992	20	b'des Mulloohverleihs.'
+the Mullooh rental. 
+
+172013	53	b'Ich mu\xe1 erst noch meine Schulden bei Remgur bezahlen.'
+I should pay my debts with Remgur first.             
+
+173064	42	b'Ein Start- und Landeplatz - allerdings nur'
+A take-off and landing site - but only for
+
+173107	42	b'f\x81r kleine Drachen, und bestimmt nicht f\x81r'
+small dragons, certainly not for Drakken  
+
+173150	15	b'Drakkenschiffe.'
+ships.         
+
+173166	35	b'Die Stallungen von Berg-Wolkenheim.'
+The stables of Berg-Wolkenheim.    
+
+173202	33	b'Und der Stallmeister ist auch da.'
+The stable master is here too.   
+
+173236	14	b'Das Wirtshaus.'
+The inn.      
+
+173251	36	b'Was w\x84re eine Stadt ohne Wirtshaus ?'
+What would a town be without an inn?
+
+173334	40	b'Das ist Ginbart - der Stallmeister hier.'
+This is Ginbart - the stable master.    
+
+173375	29	b'Einen sch\x94nen Bart hat er ja.'
+He's got a nice beard.       
+
+173405	44	b'Da sitzt irgendein alter Knopf und pa\xe1t auf,'
+There's some old man sitting there, making  
+
+173450	30	b'da\xe1 alles an seinem Platz ist.'
+sure everything is in place.  
+
+173481	23	b'Der alte Graubart sitzt'
+Old gray-beard really  
+
+173505	24	b'wohl wirklich immer dort'
+sits there all the time.
+
+174672	52	b'Ein altes Heiligtum der H\x94hlenwelt, w\x81rde ich sagen.'
+I'd call it an old sanctuary of the cave world.     
+
+174725	45	b'Hoffentlich sind Leute wie ich hier geduldet.'
+Hopefully people like me are tolerated here. 
+
+174772	48	b'Der Drache tr\x84gt ein kleines Horn auf der Stirn.'
+This dragon has a little horn on his forehead.  
+
+174821	23	b'Zwei blicklose Augen...'
+Two dead eyes...       
+
+174845	42	b'Ich glaube, mir wird ganz flau im Magen...'
+I'm starting to feel sick to my stomach...
+
+174888	39	b'He ! Da steckt ja ein kleiner Edelstein'
+Hey, there's a small gem stuck in the  
+
+174928	28	b'im rechten Auge des Dachen !'
+right eye of this dragon!   
+
+174957	36	b'Der war zuletzt aber noch nicht da !'
+Wasn't there last time!             
+
+175004	51	b'Ein kleiner Edelstein, m\x94glicherweise sehr kostbar.'
+A small gem, probably very valuable.               
+
+175056	45	b'Das werden doch wohl nicht DIE Spiegel sein ?'
+They aren't THOSE mirrors, are they?         
+
+175662	34	b'Der Flugdrache ist doch schon K.o.'
+This dragon is already k.o.       
+
+175698	4	b'Maul'
+Maul
+
+175703	4	b'Dorn'
+Dorn
+
+175708	9	b'Golaanuss'
+Golaa nut
+
+175718	10	b'Flugdrache'
+Dragon    
+
+175729	9	b'Schwingen'
+Wings    
+
+175739	8	b'Golanuss'
+Gola nut
+
+175901	7	b'Kreatur'
+Critter
+
+175909	7	b'Golanu\xe1'
+Golanut
+
+175991	13	b'Das ist ja...'
+This is a... 
+
+176005	44	b'...ein Flugdrache... ein WILDER Flugdrache !'
+...flying dragon... a WILD flying dragon!   
+
+176050	14	b'Ein Jungtier !'
+A nestling!   
+
+176065	56	b'Du meine G\x81te... warum sitzt es denn da ganz allein... ?'
+My goodness, why are you sitting here all by yourself?  
+
+176122	20	b'Ob es krank ist... ?'
+Is he sick...?      
+
+176143	14	b'Klassisch K.o.'
+Simple k.o.   
+
+176158	45	b'Da macht man allerhand mit, als Flugdrache...'
+Dragons go through a lot of things...        
+
+176267	35	b'Aha ! Der Grund f\x81r die Krankheit !'
+Ahh, the reason for the sickness!  
+
+176303	43	b'Da steckt... eine Art Pflanzendorn zwischen'
+There's... some kind of thorn in between   
+
+176347	21	b'den Z\x84hnen im Kiefer.'
+the teeth in the jaw.
+
+176369	43	b'Das arme Tier mu\xe1 furchtbare Schmerzen beim'
+The poor animal must be in terrible pain   
+
+176413	43	b'Fressen haben ! Es w\x81rde glatt verhungern !'
+when eating! It could starve to death!     
+
+176457	35	b'Da steckt ein Pflanzendorn zwischen'
+There's a thorn inbetween          
+
+176493	41	b'Da wird das Fressen verdammt schmerzhaft.'
+Eating would be terribly painful.        
+
+176535	40	b'Eindeutig ein Jungdrachen. Die Schwingen'
+Clearly a young dragon. The wings are   
+
+176576	40	b'sind kr\x84ftig, aber noch nicht sehr gro\xe1.'
+strong, but not very large yet.         
+
+176767	37	b'Verflixt. Das Ding steckt bombenfest.'
+Damn, this thing is stuck.           
+
+176805	28	b'Da brauche ich ein Werkzeug.'
+I'll need some tool.        
+
+176834	39	b'Autsch !  Das Zeug brennt ja wie Feuer.'
+Ouch! This stuff burns like fire.      
+
+179283	38	b'Jetzt wird`s langsam lebensgef\x84hrlich.'
+It's starting to getting dangerous.   
+
+179322	45	b'Ich glaube, ich sollte den Versuch lieber als'
+I think I should consider this attempt as    
+
+179368	23	b'gescheitert betrachten.'
+a failure.             
+
+179392	20	b'Ich kehre besser um.'
+Better turn back.   
+
+179414	18	b'Jede Menge B\x81sche.'
+Lots of bushes.   
+
+179433	38	b'An denen kann ich mich gut festhalten.'
+I can hold on to them.                
+
+179472	18	b'Da ist eine H\x94hle.'
+That's a cave.    
+
+179491	35	b'Was f\x81r ein Segen, da kann ich mich'
+What a blessing, I can rest there  
+
+179527	21	b'ein bi\xe1chen ausruhen.'
+for a bit.           
+
+179549	4	b'He !'
+Hey!
+
+179554	17	b'Was ist denn da ?'
+What's there?    
+
+179572	5	b'Busch'
+Bush 
+
+179578	5	b'H\x94hle'
+Cave 
+
+179584	33	b'Der Busch hier oben ist lockerer.'
+The bush up hier is lose.        
+
+179618	37	b'Ich schaffe es aber immer noch nicht,'
+But I still can't manage to pull     
+
+179656	24	b'den Busch rauszurei\xe1en !'
+this bush out!          
+
+179681	23	b'Das schaffe ich nicht !'
+I cannot do that!      
+
+179705	31	b'Der Busch sitzt fest im Felsen.'
+The bush is stuck in the rock. 
+
+180397	47	b'Das scheint der Wirt dieses Gasthauses zu sein.'
+That seems to be the landlord of this inn.     
+
+180799	27	b'Qualbert ist noch immer da.'
+Qualbert is still here.    
+
+180827	36	b'Ein ziemliches Schlitzohr, der Kerl.'
+Quite a rascal, that guy.           
+
+180865	50	b'Ein einsamer Gast - wohl einer von denen, die sich'
+A lonely guest - probably one of the kind, who    
+
+180916	48	b'tagt\x84glich in Wirtsh\x84usern wie diesem aufhalten.'
+spends time in taverns like this every day.     
+
+181013	33	b'Eine Frau weiblichen Geschlechts.'
+A woman of female gender.        
+
+182738	35	b'Das sind die Berge von Ost-Veldoor.'
+The mountains of East-Veldoor.     
+
+182774	42	b'Da kommt man nur mit einem Drachen `r\x81ber.'
+The only way across is by dragon.         
+
+182817	36	b'Das sind die Stallungen von Gremgor.'
+Those are the stables of Gremgor.   
+
+182854	39	b'Der Mann soll ein sehr altes, ber\x81hmtes'
+This man is said to own a very old,    
+
+182894	24	b'Drachengez\x81cht besitzen.'
+famous dragon breed.    
+
+182919	54	b'Das ist Gremgor, der Stallmeister von Wiesen-Sulzthal.'
+This is Gremgor, the stable master of Wiesen-Sulzthal.
+
+182974	49	b'Drei M\x84nner. Die scheinen nichts zu tun zu haben.'
+Those men don't seem to have anything to do.     
+
+183024	34	b'Das m\x81ssen diese drei Br\x81der sein,'
+They must be the tree brothers,   
+
+183059	31	b'von denen Qualbert erz\x84hlt hat.'
+Qualbert was talking about.    
+
+183091	26	b'Holbor, Malmon und Janbar.'
+Holbor, Malmon and Janbar.
+
+183118	48	b'Soviel wie die m\x94cht` ich auch mal zu tun haben.'
+I'd like to have as much to do as them one day. 
+
+183167	20	b'Ein alter Handschuh.'
+An old glove.       
+
+183188	43	b'Hier sollte mal jemand den M\x81ll beseitigen.'
+Somebody should clean up the garbage here. 
+
+183232	33	b'Von hier starten die Flugdrachen.'
+This is where dragons take off.  
+
+183312	49	b'Sieht aus wie ein Beobachtungsposten der Drakken.'
+Looks like the lookout of the Drakken.           
+
+183362	54	b'Ich mu\xe1 erst noch meine Schulden bei Gremgor bezahlen.'
+I should pay my debts with Gremgor first.             
+
+184762	31	b'Eine Durst-Bek\x84mpfungs-Anstalt.'
+A thirst-fighting institution. 
+
+184794	26	b'Hei\xe1 genug ist es heut ja.'
+It's hot enough today.    
+
+184822	35	b'Da kann ich mir vielleicht ein paar'
+Maybe I can get some useful stuff  
+
+184858	26	b'n\x81tzliche Sachen besorgen.'
+there.                    
+
+184885	37	b'Das ist dieser miese Kollie von einem'
+That's the lousy twat of a cop.      
+
+184923	30	b'Polizisten. Schande \x81ber ihn !'
+Shame on him!                 
+
+184954	40	b'Ein H\x94hlenweltler im Dienst der Drakken.'
+A cave worlder serving the Drakken.     
+
+184995	34	b'Jedenfalls hat er eine Uniform an.'
+At least he's wearing a uniform.  
+
+185030	39	b'Soso. Heute ist ein allgemeiner Vortrag'
+I see, there'll be a presentation in   
+
+185070	41	b'\x81ber Flugdrachen im Wirtshaus - jedermann'
+the inn today, about dragons - everybody 
+
+185112	39	b'ist willkommen, nicht nur Fachbesucher.'
+is welcome, not just experts.          
+
+185152	24	b'Eintrittspreis 8 Folint.'
+entrance fee 8 Florint. 
+
+185177	42	b'Man hei\xe1t die G\x84ste der 250. Zusammenkunft'
+We welcome the guests of the 250th meeting
+
+185220	35	b'der Flugdrachen-Z\x81chter willkommen.'
+of the dragon breeders.            
+
+185256	38	b'Da gehts zum Pfad hinauf in die Berge.'
+This path leads up into the mountains.
+
+185770	47	b'Ohne Kletterausr\x81stung komme ich da nicht hoch.'
+I can't get up there without climbing gear.    
+
+185819	5	b'Stein'
+Stone
+
+185825	6	b'Objekt'
+Object
+
+185832	33	b'Den Stein kann ich nicht bewegen.'
+I can't move the stone.          
+
+185866	17	b'Der ist zu gro\xe1 !'
+It's too big!    
+
+185884	28	b'Der Stein ist ziemlich gro\xe1.'
+The stone is pretty big.    
+
+185913	31	b'Das w\x84re nur eine unn\x81tze Last.'
+That'd just be a useless load. 
+
+185945	32	b'Sieh an ! Ein Polizeiabzeichen !'
+Look, a police badge!           
+
+185978	44	b'Ohne eine passende Ausr\x81stung kommt man dort'
+There's no getting up there without proper  
+
+186023	13	b'nicht hinauf.'
+equipment.   
+
+186037	41	b'Da gehts runter in Richtung des Bergsees.'
+That's the way down to the mountain lake.
+
+186079	21	b'Was ist denn das... ?'
+What is that...?     
+
+186774	35	b'Den sollte ich lieber nicht reizen.'
+I'd better not provoke him.        
+
+186811	47	b'Die fliegen bestimmt zu ihrem n\x84chsten Einsatz.'
+They are probably flying to their next mission.
+
+187014	33	b'Ein uralter, geheimer Geheimgang.'
+An ancient secret passage.       
+
+187048	14	b'Wie gruselig !'
+Fucking scary!
+
+187064	34	b'Da geht`s zur\x81ck nach Zelle 103...'
+That's the way back to cell 103.  
+
+187099	25	b'Da geht`s nach Zelle 201.'
+That way to cell 201.    
+
+187125	22	b'Jetzt wird`s spannend.'
+Getting exciting now. 
+
+187148	31	b'Da scheint der Ausgang zu sein.'
+That seems to be the exit.     
+
+190211	37	b'Keine Chance. Da kommt niemand r\x81ber.'
+No chance, there's no way over there.
+
+190250	26	b'Da f\x81hrt ein Weg weiter...'
+There's another path...   
+
+190277	37	b'Das ist der Pfad hinauf in die Berge.'
+That path leads up the mountains.    
+
+190315	21	b'Eine Drachenstatue...'
+A dragon statue...   
+
+190337	33	b'Wer die wohl hierhin gebaut hat ?'
+Who might have built it here?    
+
+190371	47	b'Vielleicht das \x9aberbleibsel einer alten Kultur.'
+Perhaps the remnant of an ancient culture.     
+
+190419	26	b'Vielleicht das Wahrzeichen'
+Maybe the emblem of an    
+
+190446	21	b'einer alten Religion.'
+ancient religion.    
+
+190468	42	b'Da steckt ein Edelstein in der Augenh\x94hle.'
+There's a gem in the eye socket.          
+
+190511	30	b'Von mir h\x94chstselbst plaziert.'
+Placed by yours truly.        
+
+190542	22	b'Eine leere Augenh\x94hle.'
+An empty eye socket.  
+
+190565	13	b'Wie gruselig.'
+Scary.       
+
+190579	34	b'Da ist der Edelstein, den ich dort'
+There's the gem I put in there    
+
+190614	20	b'hineingesteckt habe.'
+earlier.            
+
+190635	40	b'Da steckt ein kleines Horn aus Edelstein'
+There's a little gemstone horn in       
+
+190676	18	b'in der Vertiefung.'
+the indentation.  
+
+190695	25	b'Da ist eine Vertiefung...'
+There's an indentation.  
+
+190721	4	b'Tja.'
+Well
+
+190726	35	b'Soweit ich wei\xe1, speien die Drachen'
+The dragons of the cave world don't
+
+190762	26	b'der H\x94hlenwelt kein Feuer.'
+breathe fire AFAIK.       
+
+190789	31	b'Wahrscheinlich kommt aus diesem'
+Probably none is coming out of 
+
+190821	33	b'Maul auch keins. Oder etwa doch ?'
+this mouth either. Right? RIGHT? 
+
+190855	16	b'Ganz sch\x94n tief.'
+Pretty deep.    
+
+190872	32	b'M\x94glich, da\xe1 seit tausend Jahren'
+It's possible that nobody has   
+
+190905	37	b'niemand mehr dort dr\x81ben gewesen ist.'
+been over there for a thousand years.
+
+190943	33	b'Tja... wohin es da dr\x81ben geht...'
+Well, whereever that leads to    
+
+190977	35	b'...wird wohl nie jemand erfahren...'
+over there, nobody will ever know. 
+
+191013	8	b'Schlucht'
+Canyon  
+
+191022	3	b'Weg'
+Way
+
+191026	35	b'Sitzt, passt, wackelt und hat Luft.'
+It fits like a glove.              
+
+191062	35	b'Hm. Der scheint dorthin zu geh\x94ren.'
+Oh, this seems to belong there.    
+
+191098	6	b'Passt.'
+Fits. 
+
+191105	45	b'Ich glaube, DORT pa\xe1t der Stein nicht hinein.'
+I think the stone does'n fit in THERE.       
+
+192828	4	b'Pfad'
+Path
+
+192846	5	b'N\x81sse'
+Nuts 
+
+192852	8	b'Schatten'
+Shadow  
+
+192861	7	b'Hellami'
+Hellami
+
+192869	4	b'Nuss'
+Nut 
+
+238323	29	b'Ziemlich zu, w\x81rde ich sagen.'
+Close, I'd say.              
+
+238354	51	b'Da gehts raus - auf die Oberfl\x84che dieses Planeten.'
+The exit - to the planet surface.                  
+
+238406	35	b'Ein roter Knopf. Das Zeichen darauf'
+A red button. The symbol on it     
+
+238442	34	b'wirkt wie, hm... wie eine Warnung.'
+looks like ... a warning.         
+
+238477	45	b'Eine gelbe Taste - leider steht nichts drauf.'
+A yellow button - no symbol on it.           
+
+238523	49	b'Eine Druck-Anzeige. Sie steht auf... 100 Prozent.'
+A pressure gauge, it points to 100 percent.      
+
+238573	29	b'Der Druck ist sozusagen Null.'
+Zero pressure pretty much.   
+
+238603	47	b'Oha ! Da drau\xe1en sieht`s aus wie auf dem Mond !'
+Damn! Looks like the moon surface out there!   
+
+238651	38	b'Ziemlich schmal. Meine gro\xe1e Garderobe'
+Pretty narrow. My huge closet         
+
+238690	27	b'pa\xe1t da nicht gerade rein !'
+doesn't fit in there!      
+
+238718	31	b'Ein Pilotensessel. Offenbar f\x81r'
+A pilot seat. Apparently built 
+
+238750	21	b'H\x94hlenweltler gebaut.'
+for cave worlders.   
+
+238772	25	b'Schaltkonsolen, Armaturen'
+Consoles, armatures      
+
+238798	20	b'und solche Sachen...'
+and such things...  
+
+238819	34	b'Ein Schalter, der gr\x81n leuchtet - '
+A button glowing green -          
+
+238854	32	b'hmmmm... wozu der wohl gut ist ?'
+huh... what's it for?           
+
+238887	31	b'Ein einzelner, gr\x81ner Schalter.'
+A single green button.         
+
+238919	40	b'Das Ding ist klein und eher unauff\x84llig.'
+This thingy is small and unflashy.      
+
+238960	43	b'Deshalb vermutlich auch furchtbar wichtig !'
+That's why it's probably super important!  
+
+239004	46	b'Der schl\x84ft. Tief und fest. Wie sch\x94n f\x81r ihn.'
+He's sleeping deeply. How nice for him.       
+
+239051	32	b'Da steckt ein kleiner, silberner'
+There's a small silver master   
+
+239084	20	b'Masterkey im Schlo\xe1.'
+key in the keyhole. 
+
+239105	33	b'Sieh an. Ein kleiner Schl\x81ssel...'
+Look, a small key...             
+
+239139	40	b'Aha... Das Wort "Masterkey" steht drauf.'
+Ah, the label says "Master Key".        
+
+239180	33	b'Sieh an - Eine Sauerstoffpatrone.'
+Look - an oxygen cartridge.      
+
+239214	32	b'Die kommt nicht eben ungelegen !'
+Comes in handy!                 
+
+239247	25	b'Wie soll ich das machen ?'
+How should I do that?    
+
+239273	43	b'Au\xe1erdem hat er sich gerade erst hingelegt.'
+Besides, he just went under.               
+
+239329	36	b'Bevor ich da draufdr\x81cke, sollte ich'
+Before I press that, I should       
+
+239366	31	b'lieber noch was anderes tun...!'
+probably try something else...!
+
+239398	43	b'Ich sollte vorher die Schrankt\x81r schlie\xe1en.'
+I should close the locker first.           
+
+239442	17	b'Ordnung mu\xe1 sein.'
+Nice and tidy.   
+
+239460	4	b'Aha.'
+Yay!
+
+239465	20	b'Klappe zu, Affe tot.'
+Done, it's closed.  
+
+239486	21	b'Da passiert nichts...'
+Nothing's happening. 
+
+239508	43	b'Sieh an ! Die Taste f\x81r den Druckausgleich.'
+Look, the pressure control button.         
+
+239552	38	b'Hm...ich glaube, das endet fatal, wenn'
+Um, I think this will end bad if      
+
+239591	27	b'ich JETZT da draufdr\x81cke...'
+I press this NOW...        
+
+239619	25	b'Hm. Es passiert nichts...'
+Oh, nothing happened.    
+
+239645	35	b'Was war das denn f\x81r ein Ger\x84usch ?'
+What was this noise?               
+
+239681	12	b'Blechschrank'
+Locker      
+
+239694	31	b'Das ist eine hydraulische T\x81r !'
+This is a hydraulic door!      
+
+239726	30	b'Sowas kann man nicht auf- oder'
+I can't open or close this    
+
+239757	28	b'zumachen wie einen Schrank !'
+like a locker!              
+
+239786	27	b'Hm... der ist abgesperrt...'
+Um... this is locked...    
+
+239825	27	b'Wozu. Der ist sowieso leer.'
+Why, this is empty.        
+
+239853	17	b'Sauerstoffpatrone'
+oxygen cartridge 
+
+192879	35	b'Warmes Wasser ist irgendwie anders.'
+Somehow warm water is different.
+
+192916	30	b'In dieses eiskalte Wasser... ?'
+Into this ice cold water...?
+
+192947	37	b'Ich werd` mir einen Schnupfen holen !'
+I'll catch a cold!
+
+192985	49	b'Ich wei\xe1 nicht... dieser Schatten da im Wasser...'
+I don't know... this shadow there in the water...
+
+193035	1	b' '
+
+193042	9	b'Sieh an !'
+Look!
+
+193052	33	b'Da f\x81hrt ein Pfad nach Nordosten.'
+A path leads northeast.
+
+193086	46	b'Da f\x81hrt ein Weg hangabw\x84rts ins Tal hinunter.'
+A path leads down the slope into the valley.
+
+193133	36	b'H\x81bsche Gegend hier. Und vor allem :'
+Pretty area here. And above all: no
+
+193170	28	b'Keine Drakken in Sichtweite.'
+dragons in sight.
+
+193199	14	b'Eine Golaanu\xe1.'
+A Golaa nut.
+
+193214	33	b'Nicht weit vom Birnbaum gefallen.'
+Not far from the pear tree.
+
+193248	19	b'Ein Pilz, ein Pilz.'
+Yay, a mushroom.
+
+193268	34	b'Ob der giftig ist ? Oder heilsam ?'
+
+193303	39	b'Vielleicht sollte ich mal mein schlaues'
+
+193343	20	b'Buch konsultieren...'
+
+193364	42	b'Hm - Da scheint es irgendeinen unbekannten'
+
+193407	60	b'Bewohner in diesem See zu geben. Fragt sich nur, ob der sich'
+
+193468	44	b'freuen w\x81rde, meine Bekanntschaft zu machen.'
+
+193513	47	b'Oder anders`s rum: Ob ich mich besonders freuen'
+
+193561	38	b'w\x81rde, SEINE Bekanntschaft zu machen ?'
+
+193600	27	b'Das ist wohl ein Golaabaum.'
+
+193628	35	b'Golaan\x81sse - gro\xe1, rund und saftig.'
+
+193664	46	b'Aber leider f\x81r Menschen - und H\x94hlenweltler -'
+
+193711	19	b'v\x94llig ungenie\xe1bar.'
+
+193731	43	b'Da schwimmen ein paar Golaan\x81sse im Wasser.'
+
+193775	36	b'Sind wohl vom Baum heruntergefallen.'
+
+193812	8	b'Treffer.'
+
+198225	23	b'Dies ist ein Gef\x84ngnis.'
+
+198249	34	b'Hier stehen die T\x81ren nicht offen.'
+
+198285	17	b'Eine Landebahn...'
+
+198303	31	b'...f\x81r Drachen und andere UFOs.'
+
+198335	29	b'Die Kommandantur der Kaserne.'
+
+198365	43	b'Das sind wohl die Unterk\x81nfte der Soldaten.'
+
+198409	30	b'Ein Wachsoldat. Hier wird wohl'
+
+198440	29	b'alles und jedes kontrolliert.'
+
+198470	40	b'Das mu\xe1 eins dieser Drakkenschiffe sein.'
+
+198511	34	b'Besser, ich geh` nicht zu nah `ran'
+
+198546	24	b'Ein Schuppen. Wie sch\x94n.'
+
+198571	33	b'Sieht wie ein Munitionslager aus.'
+
+198605	50	b'Da mach ich lieber einen ganz gro\xe1en Bogen drum...'
+
+198656	23	b'Die T\x81r ist abgesperrt.'
+
+198680	21	b'Was wohl da drin ist.'
+
+198702	26	b'Die Schuppent\x81r ist offen.'
+
+198729	52	b'Das ist die Eingangst\x81r zum hinteren Gef\x84ngnistrakt.'
+
+198782	11	b'Schuppent\x81r'
+
+198794	42	b'Hm. Dieser Schl\x81ssel passt offenbar nicht.'
+
+198837	27	b'Die T\x81r ist doch schon auf.'
+
+199876	34	b'Der Bursche schl\x84ft wie ein Stein.'
+
+199911	26	b'Zers\x84gt einen ganzen Wald.'
+
+199939	30	b'Hoppla ! Da schl\x84ft ja einer !'
+
+199970	33	b'Sieh mal einer an - ein W\x84chter !'
+
+200004	33	b'Gl\x81ck f\x81r mich und Pech f\x81r ihn !'
+
+200038	7	b'W\x84chter'
+
+200086	40	b'Holla ! Wenn das mal nicht die Schl\x81ssel'
+
+200127	33	b'zum Weinkeller des Chefs sind...!'
+
+200176	20	b'Der Hauptschl\x81ssel !'
+
+200197	36	b'Wenn ich da nur `rankommen k\x94nnte...'
+
+200273	44	b'Er hat ihn schon, meine Damen und Herren...!'
+
+200907	45	b'Zelle 202... Ob da auch jemand drin schmort ?'
+
+200954	27	b'Noch eine T\x81r... Zelle 203.'
+
+200982	33	b'Das mu\xe1 der hintere Ausgang sein.'
+
+201016	9	b'Zellent\x81r'
+
+201026	11	b'Ausgangst\x81r'
+
+201081	59	b'Offene T\x81ren aufschlie\xe1en ? Nein soweit bin ich noch nicht.'
+
+201141	33	b'Hatte ich da nicht einer h\x81bschen'
+
+201175	26	b'jungen Dame versprochen...'
+
+201202	25	b'sie zu retten oder so...?'
+
+202759	25	b'Der Boden ist der gleiche'
+
+202785	25	b'wie \x81berall sonst auch...'
+
+202812	28	b'Langweiliges Ding. Hilft mir'
+
+202841	18	b'auch nicht weiter.'
+
+202860	36	b'Zellent\x81r einfach, Standardmodell...'
+
+202897	33	b'Tja, wo soll`s hier was geben...?'
+
+202931	28	b'Dick, stark und wasserdicht.'
+
+202960	27	b'Ich war mal wo, da war`n...'
+
+202988	22	b'die W\x84nde aus Gummi...'
+
+203011	47	b'Die gleiche Pritsche wie in den anderen Zellen.'
+
+203059	27	b'Eine T\x81rangel. Ganz normal.'
+
+203087	34	b'Hm... wenn man genauer hinsieht...'
+
+203122	28	b'Ich meine, wenn man wirklich'
+
+203151	22	b'GANZ genau hinsieht...'
+
+203174	16	b'So genau, da\xe1 es'
+
+203191	26	b'genauer nicht mehr geht...'
+
+203218	30	b'Dann ist da beim besten Willen'
+
+203249	22	b'NICHTS zu entdecken...'
+
+203272	31	b'Oder ist da etwa DOCH etwas...?'
+
+203304	5	b'Stift'
+
+203310	29	b'Das ist ein Stift, wie es ihn'
+
+203340	23	b'in jeder T\x81rangel gibt.'
+
+203364	39	b'Wenn man allerdings genauer hinsieht...'
+
+203404	9	b'Quel-Than'
+
+203414	28	b'Ein ganz normaler Quel-Than.'
+
+203443	48	b'Man k\x94nnte jedoch noch etwas genauer hinsehen...'
+
+203492	33	b'Ich glaube, ich handle mir ernste'
+
+203526	41	b'Schwierigkeiten ein, wenn ich jetzt nicht'
+
+203568	32	b'bald mit diesem Unfug aufh\x94re...'
+
+203601	29	b'Also: da ist der Quel-Than...'
+
+203631	41	b'Nein, Nein. Ich bin \x81berhaupt nicht m\x81de.'
+
+203673	8	b'Pritsche'
+
+203692	28	b'Nichts als steinerner Stein.'
+
+203721	28	b'Tja. Da ist rein gar nichts.'
+
+203750	16	b'Hier ist nichts.'
+
+203810	29	b'Der Boden ist hier steinhart.'
+
+203840	44	b'Ich sollte mir eine weichere Stelle suchen !'
+
+208387	26	b'Ein ganz normaler Boden...'
+
+208415	29	b'Ziemlich kr\x84ftig, das Ding...'
+
+208445	31	b'Solide Wand - ob man wenigstens'
+
+208477	22	b'mit ihr reden kann...?'
+
+208500	25	b'Bester H\x94hlenwelt-Fels...'
+
+208526	25	b'Wer hier mal festsitzt...'
+
+208552	30	b'...der kommt nicht mehr `raus.'
+
+208583	36	b'Die Pritschen sind hier alle gleich.'
+
+208620	45	b'Zum Schafen habe ich nun wirklich keine Zeit.'
+
+208685	16	b'Klingt wie Fels.'
+
+208702	39	b'Hier f\x81hrt auch kein Geheimgang weiter.'
+
+208742	20	b'Nein. Alles kompakt.'
+
+210368	18	b'Gestampfte Erde...'
+
+210387	29	b'na, immerhin ist sie trocken.'
+
+210418	25	b'Solide Handwerksarbeit...'
+
+210619	45	b'F\x81r ein Nickerchen fehlt mir leider die Zeit.'
+
+210674	10	b'Geheimgang'
+
+210695	29	b'Aua. Ziemlich hart, das Zeug.'
+
+210904	8	b'Pssst...'
+
+210913	28	b'...immer sch\x94n leise sein...'
+
+212670	22	b'Das ist der Zugang zum'
+
+212693	31	b'hinteren Teil des Gef\x84ngnisses.'
+
+212726	40	b'Dort geht es zum vorderen Gef\x84ngnisgang.'
+
+212767	27	b'Den Tisch kenne ich auch...'
+
+212795	30	b'Da geht es in die Zelle 201...'
+
+213619	27	b'Das ist nicht ungef\x84hrlich.'
+
+213647	30	b'Ob ich wirklich gehen soll...?'
+
+213679	4	b'Gang'
+
+213818	22	b'Da ist ja mein Spezi !'
+
+213841	45	b'Fragt sich nur, wie tief er wirklich schl\x84ft.'
+
+213918	48	b'Ich wei\xe1 nicht, ob ich dem Kerl gewachsen bin...'
+
+213967	42	b'Und `ne Menge Krach machen w\x81rde das auch.'
+
+214750	29	b'Hm... was ist denn da los...?'
+
+214831	15	b'noch mehr Boden'
+
+214858	13	b'Lieber nicht.'
+
+214872	33	b'Am Ende haut sie noch zur\x81ck...?!'
+
+214916	45	b'Dazu br\x84uchte man mindestens einen Zerst\x94rer.'
+
+214962	38	b'Aber hier gibts ja nicht mal Wasser...'
+
+215001	42	b'Ich versuchs`s mal mit einem vernichtenden'
+
+215044	37	b'Blick...hmmmmpf...nein, klappt nicht.'
+
+215082	40	b'Vom Aufrei\xe1en hab` ich schon mal geh\x94rt.'
+
+215123	39	b'Aber wie ging das gleich wieder mit dem'
+
+215163	18	b'Niederrei\xe1en...?!?'
+
+215182	28	b'Klopffestigkeit... 98 Oktan.'
+
+215228	37	b'Wie kann man nur so zugemauert sein ?'
+
+215266	35	b'Eine Riesenwand. Dick und riesig...'
+
+215429	35	b'...da k\x94nnte ja jemand aufwachen...'
+
+217799	31	b'Ein Boden aus gestampfter Erde.'
+
+217832	31	b'Das einzige, was hier von guter'
+
+217864	31	b'Qualit\x84t ist... sind die T\x81ren.'
+
+217896	48	b'Solide Wand - zu hart f\x81r meine dritten Z\x84hne...'
+
+217945	26	b'Granit reinsten Wassers...'
+
+217972	20	b'Ein echtes Bollwerk.'
+
+217993	22	b'Da kommt keiner durch.'
+
+218016	37	b'Noch so eine ungem\x81tliche Pritsche...'
+
+218054	26	b'Freiheit, s\x81\xe1e Freiheit...'
+
+218081	35	b'Zum Schlafen habe ich keine Zeit...'
+
+218269	26	b'Wie ging das gleich wieder'
+
+218296	22	b'mit dem Vernichten...?'
+
+218319	12	b'\x8ehem.. also:'
+
+218332	27	b'HEBE DICH HINFORT, WAND !!!'
+
+218360	32	b'Hmm... klappt irgendwie nicht...'
+
+218393	19	b'Niemand zuhause...?'
+
+218413	29	b'H\x94rt sich ziemlich solide an.'
+
+218443	28	b'Hallooo...? Jemand zuhause ?'
+
+218626	8	b'Soooo...'
+
+218635	35	b'...nun immer sch\x94n leise bleiben...'
+
+220615	42	b'Lieber nicht. Das w\x84re viel zu gef\x84hrlich.'
+
+220659	46	b'Zelle 101... die hat mich nicht halten k\x94nnen.'
+
+220706	45	b'Zelle 102... Ob da auch jemand drin schmort ?'
+
+220752	39	b'Aha... da scheint ein Gang abzuzweigen.'
+
+220792	37	b'Dort f\x81hrt eine Treppe zur Amtsstube.'
+
+220830	27	b'Noch eine T\x81r... Zelle 103.'
+
+222592	46	b'Erstaunlich, da\xe1 das Tier so friedlich ist...?'
+
+222640	33	b'Das ist wohl eine Art Frachtraum.'
+
+222674	34	b'Von denen scheint keiner besondere'
+
+222709	17	b'Angst zu haben...'
+
+222727	29	b'Aha, das Herrchen. Ich hoffe,'
+
+222757	32	b'der Mann versteht sein Handwerk.'
+
+223070	46	b'Mit dem ist sicher nicht gut Kirschen essen...'
+
+223118	30	b'Das wird der Kommandeur dieser'
+
+223149	42	b'Einheit sein. Ein ziemlich finsterer Kerl.'
+
+223192	23	b'So ein h\x81bsches Ding...'
+
+223216	39	b'Sieht aus, als w\x84re sie eine Gefangene.'
+
+223256	36	b'Eine sch\x94ne T\x81r. Besonders, weil man'
+
+223293	41	b'durch sie hier wieder `rauskommen kann...'
+
+223335	44	b'Genau das Richtige um Elefanten zu schie\xe1en.'
+
+223380	52	b'Ich sollte vorsichtig sein. Der Kerl ist bewaffnet !'
+
+223433	30	b'Ich bin doch nicht lebensm\x81de.'
+
+223464	28	b'Der Kerl w\x81rde mich r\x94sten !'
+
+227331	24	b'Das ist zwar nur Erde...'
+
+227356	25	b'aber ich w\x81rde mindestens'
+
+227382	23	b'eine Schaufel brauchen.'
+
+227407	38	b'Das ist mal eine richtige h\x81bsche T\x81r.'
+
+227446	22	b'H\x81bsch dick und solide'
+
+227469	31	b'Solide Wand - da werd` ich mich'
+
+227501	23	b'kaum durchnagen k\x94nnen.'
+
+227596	48	b'Eine wahrlich karge Bettstatt. Da war es in Frau'
+
+227645	48	b'Forster`s Pension doch wesentlich gem\x81tlicher...'
+
+227694	35	b'Du lieber Himmel - das Ding scheint'
+
+227730	27	b'auch noch morsch zu sein...'
+
+227758	34	b'Noch ein paar mal hoch und runter,'
+
+227793	35	b'und ich mu\xe1 auf dem Boden schlafen.'
+
+227829	43	b'Die ist den Weg alles Irdischen gegangen...'
+
+227873	40	b'...ein bi\xe1chen mit meiner Unterst\x81tzung.'
+
+227914	34	b'Eine einzelne, brauchbare Latte...'
+
+227949	38	b'der Rest ist nur noch morscher Abfall.'
+
+227988	37	b'Das soll wohl die Verpflegung sein...'
+
+228026	32	b'Ein L\x94ffel zum l\x94ffeln von Brei.'
+
+228059	20	b'Der Napf ist leer...'
+
+228080	32	b'Kleebrigrr, kluumpigrr Rrreis...'
+
+228113	42	b'Sieh an ! Ein lockerer Mauerstein. Da wird'
+
+228156	43	b'sich doch nicht etwa eine Chance er\x94ffnen ?'
+
+228200	41	b'Jetzt schlafen ? Jetzt, wo hier (\x84hem...)'
+
+228242	59	b'der B\x84r los ist ? Niemals ! Ich k\x94nnte ja etwas verpassen !'
+
+228311	34	b'Ich hab mal in einen Film gesehen,'
+
+228346	33	b'wie Arnie Wei\xe1enpfluger so`n Ding'
+
+228380	37	b'mit der blanken Faust zerbrochen hat.'
+
+228418	33	b'Aber irgendwie fehlt mir der Mut.'
+
+228496	5	b'Latte'
+
+228768	40	b'Der Etagenkellner hat heut` wohl frei...'
+
+228839	4	b'Wand'
+
+228857	40	b'He... was war das ? Das klingt ja hohl !'
+
+228898	31	b'Dahinter mu\xe1 ein Hohlraum sein.'
+
+228930	10	b'Mauerstein'
+
+229006	28	b'Sieh an ! Es hat geklappt...'
+
+229035	6	b'L\x94ffel'
+
+229052	4	b'Brei'
+
+229057	27	b'Gute Idee, aber ich glaube,'
+
+229085	40	b'die RECHTE Wand eignet sich besser dazu.'
+
+229244	9	b'Na bitte.'
+
+229254	24	b'Jetzt aber vorsichtig...'
+
+229339	46	b'Ich sollte vorher das Zeug vom Boden aufheben.'
+
+229386	33	b'Sonst stolpere ich noch dar\x81ber !'
+
+229420	4	b'Loch'
+
+233359	34	b'Da geht`s tief in den Fels hinein.'
+
+233394	42	b'Vielleicht ist das so etwas wie eine Mine.'
+
+233438	37	b'Sieht aus wie eine Wachh\x81tte oder so.'
+
+233476	48	b'Eine riesige Plattform - wozu die wohl gut ist ?'
+
+233525	21	b'Eine stabile Holzt\x81r.'
+
+233547	49	b'Huiii... Da geht`s aber ein paar Meter `runter...'
+
+233597	30	b'Ein zartes Bl\x81mchen. Wie lieb.'
+
+233628	28	b'Eine Art Drachenskulptur...?'
+
+233657	39	b'Der Typ sieht ziemlich ungem\x81tlich aus.'
+
+233697	50	b'Die riesigen St\x81tzpfeiler ragen bis in den Himmel.'
+
+233748	32	b'Oje. Soll ich das wirklich tun ?'
+
+234803	44	b'Das ist die Innent\x81r - wenn man das hier als'
+
+234848	25	b'Schleuse bezeichnen kann.'
+
+234875	32	b'Wenn das hier eine Schleuse ist,'
+
+234908	26	b'dann ist das die Au\xe1ent\x81r.'
+
+234935	19	b'Ein Riesen-Handrad.'
+
+234955	25	b'Erinnert mich ein bi\xe1chen'
+
+234981	19	b'an ein Segelschiff.'
+
+235001	31	b'Das Ding r\x81hrt sich kein St\x81ck.'
+
+235033	36	b'Na bitte - jetzt str\x94mt Luft herein.'
+
+235070	8	b'Innent\x81r'
+
+235079	8	b'Au\xe1ent\x81r'
+
+235088	36	b'Ich glaube, ich habe etwas wichtiges'
+
+235125	24	b'im Labyrinth vergessen !'
+
+235150	44	b'Die geht jetzt nicht auf. Der Druck h\x84lt sie'
+
+235195	12	b'geschlossen.'
+
+235208	44	b'Das wird nicht gehen. Der Luftdruck h\x84lt sie'
+
+236485	44	b'Ich sch\x84tze, ich sollte mich nicht r\x81ckw\x84rts'
+
+236530	46	b'bewegen, sondern eher voran. Und das hei\xe1t...!'
+
+236578	34	b'Da geht`s ja ganz sch\x94n `runter...'
+
+236613	14	b'Mein Mondauto.'
+
+236628	49	b'Eine h\x81bsche Br\x81cke. Hoffentlich h\x84lt sie auch...'
+
+236678	50	b'Diese Sternenbilder hab` ich noch nie gesehen. Mu\xe1'
+
+236729	42	b'ganz ganz sch\x94n weit weg von zuhause sein.'
+
+236772	33	b'Das sind ja seltsame Formationen.'
+
+236806	40	b'Ob es hier mal eine atembare Athmosph\x84re'
+
+236847	40	b'gegeben hat ? Vor einer Million Jahren ?'
+
+236888	51	b'Wenn es das ist, was ich hoffe, da\xe1 es ist, dann...'
+
+237325	38	b'Ziemlich weit weg. Laufen kann ich bis'
+
+237364	47	b'dahin kaum. Aber fliegen kann ich auch nicht...'
+
+237413	25	b'Sieh an ! Eine Ladeluke !'
+
+237439	33	b'Das mu\xe1 eine Art Laderaum sein...'
+
+237473	38	b'Die Ladeluke ist offen. Dahinter liegt'
+
+237512	26	b'offenbar ein dunkler Raum.'
+
+237539	37	b'Ein richtig altmodischer Raumdampfer.'
+
+237577	30	b'K\x94nnte man vielleicht noch als'
+
+237608	21	b'Antiquit\x84t verkaufen.'
+
+237630	37	b'Gut, da\xe1 ich da bei der Landung nicht'
+
+237668	22	b'h\x84ngengeblieben bin...'
+
+237691	35	b'Jetzt m\x81\xe1te es nur noch anspringen.'
+
+237727	44	b'Tja... da ist nicht viel los mit "benutzen".'
+
+237772	37	b'Dem Auto fehlt wohl noch irgendwas...'
+
+242234	11	b'N\x81ssehaufen'
+
+242246	12	b'Sprechanlage'
+
+242259	5	b'Knopf'
+
+242884	10	b'Wachleiter'
+
+242895	15	b'Drakkenoffizier'
+
+246019	35	b'Das ist irgendein Ersatzteil-Regal.'
+
+246056	41	b'Ein Hebel. Irgendwas wird wohl passieren,'
+
+246098	43	b'wenn ich ihn bewege. Fragt sich nur - was ?'
+
+246142	38	b'Eine Werkbank. Ziemlich \x94lverschmiert.'
+
+246181	52	b'Wohl eines von den m\x84chtig vielen Ersatzteilen hier.'
+
+246234	29	b'Das Abenteuer f\x84ngt ja gut an'
+
+246264	28	b'Irgendein gr\x94\xe1eres Aggregat.'
+
+246293	33	b'Schwer zu sagen, wozu es gut ist.'
+
+246327	23	b'Eine richtige Batterie.'
+
+246351	32	b'Und frisch geladen ist sie auch.'
+
+246384	33	b'Da werden Batterien drin geladen.'
+
+246418	34	b'Scheint genau dort hineinzupassen.'
+
+246453	38	b'Ein Hohlraum. Aber - wozu ist er gut ?'
+
+246492	41	b'Der unvermeidliche, gro\xe1e, rote Schalter.'
+
+246534	57	b'Tja - sowas darf in keinem anst\x84ndigen Abenteuer fehlen !'
+
+246592	35	b'Ist wohl so was wie ein Mondauto...'
+
+246628	60	b'W\x84re ja nicht schlecht, wenn ich das Ding zum laufen bek\x84me.'
+
+246689	26	b'R\x84der !!! Un-glaub-lich !!'
+
+246716	36	b'Ein kleiner Knopf. Den wird man doch'
+
+246753	27	b'wohl nicht dr\x81cken k\x94nnen ?'
+
+246781	40	b'Tja - wenn das Ding nicht fahren will...'
+
+246822	46	b'12 Zylinder, Doppelvergaser... nicht schlecht.'
+
+246869	54	b'Ich hoffe, in der H\x94hlenwelt gibt es kein Speed-Limit.'
+
+246924	27	b'Eine Klappe. Zum Zuklappen.'
+
+246952	29	b'Oder Aufklappen. Je nach dem.'
+
+246982	47	b'Da steckt eine Batterie im Schacht. Erfreulich.'
+
+247030	40	b'Da steckt ein kleiner Kasten im Schacht.'
+
+247071	26	b'Offenbar etwas deplaziert.'
+
+247098	34	b'Ein kleiner Schacht. Sieht so aus,'
+
+247133	45	b'als geh\x94re dort ein spezielles Teil hinein...'
+
+247179	24	b'Was ist das ? Ein Art...'
+
+247204	33	b'raumfahrttechnischer Bremsklotz ?'
+
+247238	21	b'Hm... klappt nicht...'
+
+247260	7	b'Schacht'
+
+247268	16	b'R3BatterieNehmen'
+
+247285	8	b'Hohlraum'
+
+247294	30	b'Ich sch\x84tze mal, die ist voll.'
+
+247325	47	b'Uff! Das verdammte Ding r\x81hrt sich kein St\x81ck !'
+
+247373	22	b'Na bitte - geht doch !'
+
+247396	48	b'Sieh an... das war der Knopf f\x81r die Motorhaube.'
+
+247445	8	b'Maschine'
+
+247454	6	b'Klappe'
+
+247461	8	b'Batterie'
+
+247470	6	b'Kasten'
+
+247477	23	b'Hm. Da passiert nichts.'
+
+247501	38	b'Sieh an - ist wohl eine Art Ladeger\x84t.'
+
+247540	25	b'Hm. Da passiert nichts...'
+
+247566	36	b'Hm. Irgendwas hab` ich noch nicht...'
+
+247603	37	b'Wer sein Mondauto liebt, der schiebt.'
+
+247641	8	b'Mondauto'
+
+247650	5	b'R\x84der'
+
+247662	7	b'Cockpit'
+
+247670	25	b'Hat sich was mit starten.'
+
+247696	32	b'Da ist ja gar kein Z\x81ndschl\x81ssel'
+
+247729	36	b'Das ist jetzt wohl nicht mehr n\x94tig.'
+
+247766	25	b'Na bitte, das passt ja...'
+
+247792	25	b'Da fehlt wohl noch was...'
+
+247818	38	b'Na, das sieht doch schon ganz gut aus.'
+
+252622	37	b'Da liegt etwas... ein kleines Buch...'
+
+252661	35	b'Sieh an... da hat ein netter Mensch'
+
+252697	25	b'was f\x81r mich deponiert...'
+
+256084	41	b'Das ist ein kleiner, silberner Schl\x81ssel.'
+
+256127	39	b'Eine Sauerstoffpatrone. Universalmodell'
+
+256167	40	b'f\x81r alle Atemmasken westlich und \x94stlich'
+
+256208	29	b'des hei\xe1en Kerns der Galaxis.'
+
+256238	62	b'Hm. Wie`s scheint, ist das Ding momentan nicht mehr viel wert.'
+
+256301	33	b'Ein kleiner, rechteckiger Kasten.'
+
+256335	32	b'Ziemlich schwer, wie es scheint.'
+
+256368	45	b'Eine frisch geladene Batterie. Wie praktisch.'
+
+256414	13	b'Was ist das ?'
+
+256428	41	b'Ein Art raumfahrttechnischer Bremsklotz ?'
+
+256501	32	b'Eine h\x81bsche Holzlatte. Kann man'
+
+256534	36	b'bestimmt mal nutzbringend einsetzen.'
+
+256571	29	b'Ein Blechnapf - mit irgendwas'
+
+256601	30	b'absolut F\x81rchterlichem darin !'
+
+256632	24	b'Und... hm, einem L\x94ffel.'
+
+256657	37	b'Der Hauptschl\x81ssel f\x81r diesen Laden !'
+
+256695	31	b'Ha! Wenn das kein Triumph ist !'
+
+256727	39	b'Ein hilfreiches Utensil. Frisch gef\x81llt'
+
+256767	28	b'mit einer Sauerstoffpatrone.'
+
+256796	35	b'Ich hab ihn von seiner Pein erl\x94st.'
+
+256832	32	b'Igitt - was f\x81r ein Stinkezeug !'
+
+256865	29	b'D\x81rfte kaum bek\x94mmlicher sein'
+
+256895	30	b'als gew\x94hnlicher Stra\xe1en-Teer.'
+
+256926	24	b'Ein gew\x94hnlicher L\x94ffel.'
+
+256951	39	b'Als ehrlicher Besitzer dieses Spiels...'
+
+256991	38	b'finde ich es in der Spieleschachtel...'
+
+257030	40	b'Als weniger ehrlicher Besitzer jedoch...'
+
+257071	34	b'geht doch etliches Interessante...'
+
+257106	30	b'von dieser Welt an mir vorbei.'
+
+257137	37	b'Hiermit ist ein neues Objekt geboren:'
+
+257175	32	b'Die ultimative BREILATTE ! Amen.'
+
+257208	33	b'Ein Passierschein. Berechtigt zum'
+
+257242	49	b'Betreten der Kaserne um eine Lieferung Golaan\x81sse'
+
+257292	11	b'zu bringen.'
+
+257304	21	b'Ein Polizeiabzeichen.'
+
+257326	31	b'Wurde offenbar einem Polizisten'
+
+257358	30	b'von der Uniformjacke gerissen.'
+
+257389	19	b'Ein Prachtexemplar.'
+
+257409	23	b'Mit steinharter Schale.'
+
+257433	35	b'Eine Portion matschiger Golaan\x81sse.'
+
+257469	16	b'Nichts f\x81r mich.'
+
+257507	28	b'Es f\x84llt mir immer so schwer'
+
+257536	23	b'alten Mist wegzuwerfen.'
+
+257560	46	b'Ein Messer bester h\x94hlenweltlerischer Machart.'
+
+257607	38	b'Von diesem Ding habe ich Susi befreit.'
+
+257646	27	b'Eine Handvoll Drachenfeuer.'
+
+257674	32	b'Bringt einen guten Handelspreis.'
+
+257707	40	b'Ein Pilz. Er riecht ein bi\xe1chen komisch.'
+
+257748	48	b'Eine Garnitur... nun: of badly worn Kletterzeug,'
+
+257797	44	b'w\x81rde ein Unterweltler sagen. Aber es d\x81rfte'
+
+257842	32	b'noch einigerma\xe1en n\x81tzlich sein.'
+
+257875	44	b'Tja. Leider bin ich zur Zeit absolut PLEITE.'
+
+257922	21	b'Zur Zeit besitze ich '
+
+257944	8	b' Folint.'
+
+257953	39	b'Eine Eintrittkarte f\x81r einen Vortrag im'
+
+257993	40	b'Wirtshaus. Ein Vortrag \x81ber Drachenzucht'
+
+258034	19	b'f\x81r`s gemeine Volk.'
+
+258054	46	b'Eine Sahnetorte von bester Slapstick-Qualit\x84t.'
+
+258101	39	b'Unfassbar - eine Dose irdisches Bier...'
+
+258141	25	b'"Harry`s Hopfenbrause"...'
+
+258167	38	b'...gebraut nach dem Reinheitsgebot vom'
+
+258206	37	b'Herbst 1994. Wenn das kein Fund ist !'
+
+258244	38	b'Das soll ich den drei Br\x81dern bringen.'
+
+258283	48	b'Hm, der Nordost-Teil einer Karte von irgendeinem'
+
+258332	36	b'kleinen Kontinent, wie es scheint...'
+
+258369	46	b'Hm, der Nordwest-Teil einer Karte von Veldoor.'
+
+258416	44	b'Hm, der S\x81dost-Teil einer Karte von Veldoor.'
+
+258461	45	b'Hm, der S\x81dwest-Teil einer Karte von Veldoor.'
+
+258507	26	b'Offenbar ein altes Relikt.'
+
+258534	30	b'Der Edelstein von Lakkasoor...'
+
+258565	28	b'Eine gro\xe1e, leere Holzkiste.'
+
+258594	22	b'Ein Z\x81chterzertifikat.'
+
+258617	42	b'Eine Eintrittskarte f\x81r die Z\x81chtertagung.'
+
+258660	46	b'Eine gro\xe1e Holzkiste, gef\x81llt mit Golaan\x81ssen.'
+
+258707	31	b'Wau ! Der legend\x84re Quel-Than !'
+
+258739	43	b'Ein Urlaubsschein f\x81r kasernierte Soldaten.'
+
+258783	48	b'Von einem Drakkenoffizier blanko unterschrieben.'
+
+258832	48	b'Sein oder nicht sein, das ist hier die Frage...!'
+
+258881	27	b'Eine wahrhaftige Luftbohne!'
+
+258909	16	b'Nicht vergessen:'
+
+258926	29	b'Nur unter Wasser einnehmen...'
+
+258956	24	b'Eine verhutzelte Wurzel.'
+
+258981	45	b'Riecht irgendwie nach Onkel Doktor, das Ding.'
+
+259027	31	b'Vielleicht eine Heilpflanze...?'
+
+259059	36	b'Eine kleine, lila Bl\x81te. Wie h\x81bsch.'
+
+259096	43	b'Das ist der kleine Edelstein von Lurgard...'
+
+259140	40	b'Das ist der kleine Edelstein Mindhoor...'
+
+259181	40	b'Ein Goldpokal. Sicher eine Menge wert...'
+
+259222	37	b'Na gut. Jetzt hab ich eine Breilatte.'
+
+259260	26	b'Oder Lattenbrei. Und nun ?'
+
+259287	27	b'Das wird nicht viel n\x81tzen.'
+
+259315	13	b'Sie ist leer.'
+
+259338	37	b'Ich habe die Maske schon aufgesetzt !'
+
+259376	25	b'Puuh - dieses Klebzeug...'
+
+259402	41	b'...das ist nicht auseinander zu bringen !'
+
+259444	33	b'Ummpff... das ist kein Essen, das'
+
+259478	26	b'ist die Wahl zum Freitod !'
+
+264451	14	b'Anschlagebrett'
+
+264466	10	b'Dienstplan'
+
+264477	11	b'Urlaubsplan'
+
+264489	19	b'Zellenbelegungsplan'
+
+264509	15	b'Schl\x81sselkasten'
+
+264525	11	b'Frachtpl\x84ne'
+
+264718	14	b'Drakkenoffzier'
+
+264733	6	b'Soldat'
+
+264748	6	b'Keller'
+
+267822	6	b'Statue'
+
+267834	16	b'funkelndes Etwas'
+
+267851	10	b'Sekamidoor'
+
+268386	11	b'Tempelstadt'
+
+268411	4	b'Turm'
+
+268416	11	b'Lichtstrahl'
+
+268428	11	b'Steinquader'
+
+268440	6	b'Gusmar'
+
+268452	10	b'Vertiefung'
+
+268463	5	b'Maomi'
+
+270755	11	b'Ruinenstadt'
+
+271336	4	b'Susi'
+
+271371	7	b'Flocken'
+
+271379	12	b'Drachenfeuer'
+
+276706	6	b'Becken'
+
+277875	16	b'Wasseroberfl\x84che'
+
+277892	6	b'Felsen'
+
+277899	6	b'Tunnel'
+
+277906	14	b'Schlingpflanze'
+
+279257	10	b'Wasserfall'
+
+279289	5	b'H\x81tte'
+
+279295	3	b'Zep'
+
+289702	6	b'Urwald'
+
+289709	8	b'Felswand'
+
+289728	7	b'Plateau'
+
+289736	5	b'Bl\x81te'
+
+290952	6	b'Tempel'
+
+290959	12	b'Tempelportal'
+
+290972	10	b'Urwaldpfad'
+
+290983	7	b'Josbaol'
+
+291000	10	b'Einsiedler'
+
+291928	12	b'Hinterzimmer'
+
+291941	3	b'T\x81r'
+
+292585	9	b'Hintert\x81r'
+
+292595	5	b'Leute'
+
+292601	4	b'Wirt'
+
+293766	6	b'M\x84nner'
+
+294589	9	b'Wahringen'
+
+294599	5	b'Mauer'
+
+294605	8	b'H\x84uschen'
+
+294614	11	b'Kasernentor'
+
+294626	10	b'Wachsoldat'
+
+294637	10	b'Marktplatz'
+
+294648	7	b'Eingang'
+
+295586	9	b'Flugplatz'
+
+295604	9	b'Wirtshaus'
+
+295622	10	b'Warenstand'
+
+295633	14	b'Schweinsbohnen'
+
+295648	10	b'Golaan\x81sse'
+
+295659	10	b'Bullerkohl'
+
+295670	9	b'Dapfsalat'
+
+295680	9	b'Holzkiste'
+
+295690	7	b'Magolia'
+
+296916	10	b'Stallungen'
+
+296927	9	b'Frachtgut'
+
+296948	12	b'Stallmeister'
+
+298318	8	b'Laderaum'
+
+298331	10	b'Holzkisten'
+
+298342	7	b'M\x84dchen'
+
+298910	19	b'r\x84tselhaftes Objekt'
+
+299541	5	b'W\x81ste'
+
+299554	6	b'Mulloh'
+
+303875	6	b'Ruinen'
+
+303882	10	b'Landschaft'
+
+303899	7	b'Mullooh'
+
+304994	4	b'Mann'
+
+304999	12	b'S\x81dmeerfleck'
+
+305023	7	b'Majulie'
+
+305031	5	b'Hafen'
+
+305037	6	b'Stra\xe1e'
+
+305882	11	b'Felspfeiler'
+
+305894	15	b'Mullooh-Verleih'
+
+305910	7	b'Baracke'
+
+305923	6	b'Remgur'
+
+305930	5	b'Alina'
+
+307647	10	b'Landeplatz'
+
+307702	8	b'Graubart'
+
+309512	13	b'Drachenstatue'
+
+309526	4	b'Horn'
+
+309531	4	b'Auge'
+
+309554	7	b'Spiegel'
+
+311785	5	b'Boden'
+
+312940	6	b'Osthor'
+
+312947	6	b'B\x81ndel'
+
+312954	11	b'Sahnetorten'
+
+312966	4	b'Dose'
+
+312971	6	b'Messer'
+
+313865	4	b'Gast'
+
+313875	7	b'Drakken'
+
+313883	4	b'Frau'
+
+318181	4	b'Dorf'
+
+318186	5	b'Berge'
+
+318216	11	b'drei Br\x81der'
+
+318228	6	b'Fetzen'
+
+318235	9	b'Landebahn'
+
+323597	11	b'Kr\x84merladen'
+
+323627	8	b'Polizist'
+
+323636	6	b'Plakat'
+
+324754	8	b'Bergpfad'
+
+324770	14	b'Drachengesicht'
+
+324785	11	b'linkes Auge'
+
+324797	12	b'rechtes Auge'
+
+325981	9	b'Ortschaft'
+
+325991	13	b'Wegabzweigung'
+
+329364	8	b'Soldaten'
+
+330596	7	b'Gel\x84nde'
+
+330604	12	b'Stabsgeb\x84ude'
+
+330617	11	b'Unterk\x81nfte'
+
+330640	3	b'Ufo'
+
+330644	8	b'Schuppen'
+
+330653	6	b'Bunker'
+
+332002	5	b'Tisch'
+
+332008	19	b'Objekt der Begierde'
+
+332043	5	b'Zelle'
+
+332772	9	b'Zelle 201'
+
+332782	5	b'Dummy'
+
+336434	49	b'Verdammt. Entweder hat den Gang jemand gebuddelt,'
+
+336484	34	b'um zu seiner Liebsten zu gelangen,'
+
+336519	32	b'oder er war nicht ganz dicht...!'
+
+337750	9	b'Zelle 103'
+
+337760	20	b'Ende des Geheimgangs'
+
+346276	7	b'Fenster'
+
+346284	39	b'Hier kommst Du nicht mehr raus ! Haha !'
+
+349459	9	b'Amtsstube'
+
+350890	6	b'Aufbau'
+
+350903	5	b'Pilot'
+
+352905	8	b'Portrait'
+
+352926	11	b'Lasergewehr'
+
+352938	12	b'Laserpistole'
+
+353703	39	b'Wau ! Das sind ja vielleicht H\x94hlen...!'
+
+353758	7	b'Drachen'
+
+353766	9	b'Plattform'
+
+353780	3	b'Tal'
+
+353784	8	b'Bl\x81mchen'
+
+353793	8	b'Skulptur'
+
+353802	8	b'Wachmann'
+
+353811	12	b'St\x81tzpfeiler'
+
+355180	3	b'Rad'
+
+355859	8	b'Fahrzeug'
+
+355868	10	b'Felsbr\x81cke'
+
+355879	6	b'Himmel'
+
+356761	5	b'Regal'
+
+356767	5	b'Hebel'
+
+356773	8	b'Werkbank'
+
+356789	8	b'Aggregat'
+
+356816	18	b'Planetenoberfl\x84che'
+
+356835	8	b'Schalter'
+
+356897	5	b'Klotz'
+
+358939	4	b'Luke'
+
+358953	10	b'Raumschiff'
+
+358964	10	b'Bergzinken'
+
+364422	32	b'Maomi, was willst Du denn hier ?'
+
+364455	40	b'Los verschwinde wieder an Deinen Platz !'
+
+364496	16	b'Was sagtest Du ?'
+
+364514	59	b'...die altbayrischen Sitten wieder einzuf\x81hren, bla, bla...'
+
+364574	50	b'...und dann kam dieser Mann und sagte, bla, bla...'
+
+364625	49	b'...ich besuchte dann das Oktoberfest, bla, bla...'
+
+364675	43	b'...und nun bin ich hier ! Gut, nicht wahr ?'
+
+378383	35	b'Pfui Deibel ! So eine Gemeinheit...'
+
+378419	30	b'...wo ist die n\x84chste Dusche ?'
+
+425987	12	b'Schleusent\x81r'
+
+426006	5	b'Taste'
+
+426012	7	b'Messuhr'
+
+426020	11	b'Fensterchen'
+
+426045	13	b'Pilotensessel'
+
+426059	8	b'Konsolen'
+
+426095	3	b'Cal'
+
+426109	9	b'Schl\x81ssel'
+
+434279	11	b'Untersuche '
+
+434291	8	b'Benutze '
+
+434300	11	b'Sprich mit '
+
+434312	5	b'Nimm '
+
+434318	6	b'Drehe '
+
+434325	7	b'Dr\x81cke '
+
+434333	6	b'Grabe '
+
+434340	7	b'Klopfe '
+
+434348	12	b'Schlage ein '
+
+434361	8	b'Schiebe '
+
+434370	9	b'Schlie\xe1e '
+
+434380	7	b'Starte '
+
+434388	7	b'Stecke '
+
+434396	10	b'Steig ins '
+
+434407	11	b'Verschiebe '
+
+434419	5	b'Wirf '
+
+434425	6	b'\x99ffne '
+
+434432	6	b'Ziehe '
+
+434439	6	b'F\x81lle '
+
+434446	5	b'Haue '
+
+434452	10	b'Ignoriere '
+
+434463	3	b'I\xe1 '
+
+434467	6	b'Leere '
+
+434474	7	b'Rieche '
+
+434482	9	b'Schmiere '
+
+434492	9	b'Zerst\x94re '
+
+434502	10	b'Vernichte '
+
+434513	6	b'Rei\xe1e '
+
+434520	8	b'Verhaue '
+
+434529	10	b'Steig auf '
+
+434540	10	b'Tauche in '
+
+434551	8	b'Zerlege '
+
+434590	9	b'Atemmaske'
+
+434622	5	b'Blume'
+
+434676	9	b'Breilatte'
+
+434686	13	b'Passierschein'
+
+434700	16	b'Polizeiabzeichen'
+
+434717	8	b'Golaanu\xe1'
+
+434737	9	b'Handschuh'
+
+434772	9	b'Stinkpilz'
+
+434782	10	b'Ausr\x81stung'
+
+434793	9	b'Geldb\x94rse'
+
+434803	4	b'Geld'
+
+434808	14	b'Eintrittskarte'
+
+434823	5	b'Torte'
+
+434829	8	b'Bierdose'
+
+434838	8	b'P\x84ckchen'
+
+434847	8	b'Karte NO'
+
+434856	8	b'Karte NW'
+
+434865	8	b'Karte SO'
+
+434874	8	b'Karte SW'
+
+434883	6	b'Schale'
+
+434900	19	b'Stein von Lakkasoor'
+
+434920	5	b'Kiste'
+
+434926	10	b'Zertifikat'
+
+434937	10	b'Golaakiste'
+
+435139	6	b'Wurzel'
+
+435152	5	b'Stock'
+
+435168	15	b'grauwei\xe1er Pilz'
+
+435184	5	b'Pokal'
+
+435198	8	b'Kristall'
+
+473140	36	b'Ich erkenne nichts Besonderes daran.'
+
+473178	46	b'Hm. Diese Sachen passen wohl nicht zueinander.'
+
+473225	38	b'Hm. Das ergibt eigentlich keinen Sinn.'
+
+473324	55	b'Nein, nein - das w\x84re nun wirklich albern, nicht wahr ?'
+
+473380	23	b'Das funktioniert nicht.'
+
+473404	37	b'Niemand interessiert sich f\x81r mich...'
+
+473442	54	b'Hm. Bin wohl nicht weiter interessant f\x81r so jemanden.'
+
+473497	37	b'Ohweh... das w\x81rde nur \x8erger geben...'
+
+473535	30	b'Damit kann man nicht sprechen.'
+
+473566	38	b'Nein, nein. Das ist nichts zum nehmen.'
+
+473605	48	b'Hab ich doch schon. Noch mehr nehmen geht nicht.'
+
+473654	30	b'Ummpf... das Ding will nicht !'
+
+473685	58	b'Lieber nicht. Das wird mir nur Schwierigkeiten einbringen.'
+
+473744	50	b'Verflixt... zu weit weg ! Da komm ich nicht `ran !'
+
+473795	47	b'Das ist viel zu schwer - das schaff` ich nicht.'
+
+473843	34	b'Hier gibt es nichts zum mitnehmen.'
+
+473878	45	b'Daf\x81r hab ich jetzt nun wirklich keine Zeit !'
+
+473924	45	b'Lieber nicht. Damit kenne ich mich nicht aus.'
+
+473970	44	b'Das ist jetzt noch zu fr\x81h. Lieber sp\x84ter...'
+
+474015	15	b'Hm. Geht nicht.'
+
+474079	40	b'Hm... da gibts nicht viel zum dr\x81cken...'
+
+474120	55	b'Mit blo\xe1en H\x84nden ? Was w\x81rde da meine Manik\x81re sagen ?'
+
+474176	14	b'Keine Antwort.'
+
+474191	25	b'An offene T\x81ren klopfen ?'
+
+474217	42	b'Das d\x81rfte mein Therapeut nicht erfahren !'
+
+474260	48	b'Ist doch offen ! Was soll ich da um mich hauen ?'
+
+474309	47	b'Ziemlich m\x81hselig. Und auch ziemlich fruchtlos.'
+
+474357	35	b'Da gibts nicht viel zum schieben...'
+
+474393	52	b'Sieht so aus, als g\x84be es da nichts zum schlie\xe1en...'
+
+474446	38	b'Ist schon zu. Noch mehr zu geht nicht.'
+
+474485	30	b'Da r\x81hrt sich rein gar nichts.'
+
+474516	39	b'Na - das hat wohl nicht allzuviel Sinn.'
+
+474556	46	b'Das wird mein Problem leider auch nicht l\x94sen.'
+
+474603	42	b'Lohnt sich nicht. Was soll da schon sein ?'
+
+474646	46	b'Lieber nicht. Zielloses Kaputtmachen ist doof.'
+
+474693	37	b'Hm. So leicht wird das nicht gehen...'
+
+474731	46	b'Hm. Da scheint nichts zum Aufmachen zu sein...'
+
+474778	39	b'Ist schon offen. Noch aufer geht nicht.'
+
+474818	37	b'Keine Chance. Ist nicht aufzukriegen.'
+
+474856	55	b'Das ist `ne Zellent\x81r ! Die geht nicht so einfach auf !'
+
+474912	41	b'Ich glaub, ich la\xe1` das Ding lieber hier.'
+
+474954	50	b'Hm. Ich glaube, da gibt`s nicht viel zum ziehen...'
+
+475005	40	b'Hm. Das wird mir wohl kaum weiterhelfen.'
+
+475046	51	b'Ein grandiose Idee. Ich verpasse dem Kerl eins, und'
+
+475098	49	b'schmore dann den Rest meiner Tage in den Minen...'
+
+475148	52	b'Au ja ! Ich bleibe am besten hier sitzen bis zum Tag'
+
+475201	23	b'des j\x81ngsten Gericht...'
+
+475225	52	b'Um Himmels Willen... ich bin doch nicht lebensm\x81de !'
+
+475278	44	b'Ist doch schon leer. Noch leerer geht nicht.'
+
+475323	54	b'Puuh - das riecht nach dem, was vorher mal drin war...'
+
+475378	51	b'Das Zeug riecht wie bester, klebriger Stra\xe1en-Teer.'
+
+475430	46	b'Nein - das w\x81rde mir wohl nicht viel n\x81tzen...'
+
+475477	30	b'Das hat sowieso keinen Sinn...'
+
