@@ -1772,7 +1772,7 @@ The door is already open.
 This lad sleeps like a stone.     
 
 199911	26	b'Zers\x84gt einen ganzen Wald.'
-Saws an entire forest.    
+Snoring like a rhino.     
 
 199939	30	b'Hoppla ! Da schl\x84ft ja einer !'
 Whoops! Someone is asleep.    
@@ -2137,6 +2137,369 @@ Hellooooo...? Anybody home?
 218626	8	b'Soooo...'
 Sooo... 
 
+218635	35	b'...nun immer sch\x94n leise bleiben...'
+...keeping it quiet...             
+
+220615	42	b'Lieber nicht. Das w\x84re viel zu gef\x84hrlich.'
+Better not. That seems too dangerous.     
+
+220659	46	b'Zelle 101... die hat mich nicht halten k\x94nnen.'
+Cell 101, couldn't keep me in.                
+
+220706	45	b'Zelle 102... Ob da auch jemand drin schmort ?'
+Cell 102... Is there somebody in there?      
+
+220752	39	b'Aha... da scheint ein Gang abzuzweigen.'
+Aha, the path is forking there.        
+
+220792	37	b'Dort f\x81hrt eine Treppe zur Amtsstube.'
+There's stairs leading to the office.
+
+220830	27	b'Noch eine T\x81r... Zelle 103.'
+Another door... cell 103.  
+
+222592	46	b'Erstaunlich, da\xe1 das Tier so friedlich ist...?'
+Amazing how friendly this animal is.          
+
+222640	33	b'Das ist wohl eine Art Frachtraum.'
+Looks like a kind of cargo hold. 
+
+222674	34	b'Von denen scheint keiner besondere'
+They don't seem to be particularly
+
+222709	17	b'Angst zu haben...'
+afraid.          
+
+222727	29	b'Aha, das Herrchen. Ich hoffe,'
+Aha, the master. I hope the  
+
+222757	32	b'der Mann versteht sein Handwerk.'
+man knows his craft.            
+
+223070	46	b'Mit dem ist sicher nicht gut Kirschen essen...'
+I'd better be careful around this guy.        
+
+223118	30	b'Das wird der Kommandeur dieser'
+That might be the commander of
+
+223149	42	b'Einheit sein. Ein ziemlich finsterer Kerl.'
+this unit. He's a pretty sinister guy.    
+
+223192	23	b'So ein h\x81bsches Ding...'
+What a pretty thing... 
+
+223216	39	b'Sieht aus, als w\x84re sie eine Gefangene.'
+Looks like a prisoner.                 
+
+223256	36	b'Eine sch\x94ne T\x81r. Besonders, weil man'
+A nice door. Especially because I   
+
+223293	41	b'durch sie hier wieder `rauskommen kann...'
+can escape through it...                 
+
+223335	44	b'Genau das Richtige um Elefanten zu schie\xe1en.'
+Just the thing to shoot elephants.          
+
+223380	52	b'Ich sollte vorsichtig sein. Der Kerl ist bewaffnet !'
+I should be careful, this guy is armed!             
+
+223433	30	b'Ich bin doch nicht lebensm\x81de.'
+I am not suicidal.            
+
+223464	28	b'Der Kerl w\x81rde mich r\x94sten !'
+This guy would roast me!    
+
+227331	24	b'Das ist zwar nur Erde...'
+That's just earth...    
+
+227356	25	b'aber ich w\x81rde mindestens'
+but I would need at least
+
+227382	23	b'eine Schaufel brauchen.'
+a shovel.              
+
+227407	38	b'Das ist mal eine richtige h\x81bsche T\x81r.'
+That's a really pretty door.          
+
+227446	22	b'H\x81bsch dick und solide'
+Pretty thicc and solid
+
+227469	31	b'Solide Wand - da werd` ich mich'
+Solid wall - I'm hardly going  
+
+227501	23	b'kaum durchnagen k\x94nnen.'
+to make it through.    
+
+227596	48	b'Eine wahrlich karge Bettstatt. Da war es in Frau'
+A truly meagre bedroom. It was much more        
+
+227645	48	b'Forster`s Pension doch wesentlich gem\x81tlicher...'
+comfortable in Mrs. Forster's guesthouse.       
+
+227694	35	b'Du lieber Himmel - das Ding scheint'
+Good heavens - this thing seems    
+
+227730	27	b'auch noch morsch zu sein...'
+to be even rotten...       
+
+227758	34	b'Noch ein paar mal hoch und runter,'
+Just a few more ups and downs, and
+
+227793	35	b'und ich mu\xe1 auf dem Boden schlafen.'
+I'll have to sleep on the floor.   
+
+227829	43	b'Die ist den Weg alles Irdischen gegangen...'
+She's gone the way of all earthly things,  
+
+227873	40	b'...ein bi\xe1chen mit meiner Unterst\x81tzung.'
+though I might have helped a little.    
+
+227914	34	b'Eine einzelne, brauchbare Latte...'
+A single usable wooden slat...    
+
+227949	38	b'der Rest ist nur noch morscher Abfall.'
+the rest is just rotten waste.        
+
+227988	37	b'Das soll wohl die Verpflegung sein...'
+That's supposed to be the food...    
+
+228026	32	b'Ein L\x94ffel zum l\x94ffeln von Brei.'
+A spoon for spooning porridge.  
+
+228059	20	b'Der Napf ist leer...'
+The bowl is empty.  
+
+228080	32	b'Kleebrigrr, kluumpigrr Rrreis...'
+Stickeeee, clumpeeee rrrice...  
+
+228113	42	b'Sieh an ! Ein lockerer Mauerstein. Da wird'
+Look! A loose brick. Surely there won't   
+
+228156	43	b'sich doch nicht etwa eine Chance er\x94ffnen ?'
+be an opportunity here?                    
+
+228200	41	b'Jetzt schlafen ? Jetzt, wo hier (\x84hem...)'
+Sleep now? Now, when (ahem) all hell     
+
+228242	59	b'der B\x84r los ist ? Niemals ! Ich k\x94nnte ja etwas verpassen !'
+breaks loose here? Never! I might miss something.          
+
+228311	34	b'Ich hab mal in einen Film gesehen,'
+I once saw in a movie, how Arnie  
+
+228346	33	b'wie Arnie Wei\xe1enpfluger so`n Ding'
+Schwarzenegger smashed one of    
+
+228380	37	b'mit der blanken Faust zerbrochen hat.'
+those things with his bare fist.     
+
+228418	33	b'Aber irgendwie fehlt mir der Mut.'
+But I don't have the courage.    
+
+228496	5	b'Latte'
+Slat 
+
+228768	40	b'Der Etagenkellner hat heut` wohl frei...'
+The waiter on the floor is off today.   
+
+228839	4	b'Wand'
+Wall
+
+228857	40	b'He... was war das ? Das klingt ja hohl !'
+Hey, what was that? Sounds hollow.      
+
+228898	31	b'Dahinter mu\xe1 ein Hohlraum sein.'
+Must be a cavity behind that.  
+
+228930	10	b'Mauerstein'
+Brick     
+
+229006	28	b'Sieh an ! Es hat geklappt...'
+Look! It worked.            
+
+229035	6	b'L\x94ffel'
+Spoon 
+
+229052	4	b'Brei'
+Mush
+
+229057	27	b'Gute Idee, aber ich glaube,'
+Good idea, but I think the 
+
+229085	40	b'die RECHTE Wand eignet sich besser dazu.'
+RIGHT wall is better suited for this.   
+
+229244	9	b'Na bitte.'
+There.   
+
+229254	24	b'Jetzt aber vorsichtig...'
+Caaareful...            
+
+229339	46	b'Ich sollte vorher das Zeug vom Boden aufheben.'
+Should pick up the stuff off the floor first. 
+
+229386	33	b'Sonst stolpere ich noch dar\x81ber !'
+Otherwise I'll stumble over it.  
+
+229420	4	b'Loch'
+Hole
+
+233359	34	b'Da geht`s tief in den Fels hinein.'
+It leads deep into the rock.      
+
+233394	42	b'Vielleicht ist das so etwas wie eine Mine.'
+Maybe it's something like a mine.         
+
+233438	37	b'Sieht aus wie eine Wachh\x81tte oder so.'
+Looks like a guard house or something
+
+233476	48	b'Eine riesige Plattform - wozu die wohl gut ist ?'
+A huge platform - what is it good for?          
+
+233525	21	b'Eine stabile Holzt\x81r.'
+A sturdy wooden door.
+
+233547	49	b'Huiii... Da geht`s aber ein paar Meter `runter...'
+Weee... It goes down a few meters...             
+
+233597	30	b'Ein zartes Bl\x81mchen. Wie lieb.'
+A delicate flower. How dear.  
+
+233628	28	b'Eine Art Drachenskulptur...?'
+A kind of dragon sculpture? 
+
+233657	39	b'Der Typ sieht ziemlich ungem\x81tlich aus.'
+This guy looks kinda unpleasant.       
+
+233697	50	b'Die riesigen St\x81tzpfeiler ragen bis in den Himmel.'
+Those huge support pillars reach up into the sky. 
+
+233748	32	b'Oje. Soll ich das wirklich tun ?'
+Damn, should I really do that?  
+
+234803	44	b'Das ist die Innent\x81r - wenn man das hier als'
+That's the inner door - if you can call     
+
+234848	25	b'Schleuse bezeichnen kann.'
+this an airlock.         
+
+234875	32	b'Wenn das hier eine Schleuse ist,'
+If this is an airlock, then that
+
+234908	26	b'dann ist das die Au\xe1ent\x81r.'
+is the outer door.        
+
+234935	19	b'Ein Riesen-Handrad.'
+A huge handwheel.  
+
+234955	25	b'Erinnert mich ein bi\xe1chen'
+Reminds me a bit of a    
+
+234981	19	b'an ein Segelschiff.'
+sailing boat.      
+
+235001	31	b'Das Ding r\x81hrt sich kein St\x81ck.'
+This thing isn't moving at all.
+
+235033	36	b'Na bitte - jetzt str\x94mt Luft herein.'
+There - now air is flowing in.      
+
+235070	8	b'Innent\x81r'
+Inner d.
+
+235079	8	b'Au\xe1ent\x81r'
+Outer d.
+
+235088	36	b'Ich glaube, ich habe etwas wichtiges'
+I think I might have forgotten      
+
+235125	24	b'im Labyrinth vergessen !'
+something in the maze!  
+
+235150	44	b'Die geht jetzt nicht auf. Der Druck h\x84lt sie'
+This doesn't open up. The pressure keeps it 
+
+235195	12	b'geschlossen.'
+shut.       
+
+235208	44	b'Das wird nicht gehen. Der Luftdruck h\x84lt sie'
+That won't work. The air pressure holds it  
+
+236485	44	b'Ich sch\x84tze, ich sollte mich nicht r\x81ckw\x84rts'
+I think, I shouldn't move backwards, only   
+
+236530	46	b'bewegen, sondern eher voran. Und das hei\xe1t...!'
+forwards. And that means...!                  
+
+236578	34	b'Da geht`s ja ganz sch\x94n `runter...'
+It's going down quite a bit there!
+
+236613	14	b'Mein Mondauto.'
+My moon car.  
+
+236628	49	b'Eine h\x81bsche Br\x81cke. Hoffentlich h\x84lt sie auch...'
+A nice bridge. I hope it's holding up...         
+
+236678	50	b'Diese Sternenbilder hab` ich noch nie gesehen. Mu\xe1'
+I've never seen those constellations before. Must 
+
+236729	42	b'ganz ganz sch\x94n weit weg von zuhause sein.'
+be quite far away from home.              
+
+236772	33	b'Das sind ja seltsame Formationen.'
+Those are strange formations.    
+
+236806	40	b'Ob es hier mal eine atembare Athmosph\x84re'
+Was there a breathable atmosphere here  
+
+236847	40	b'gegeben hat ? Vor einer Million Jahren ?'
+once? A million years ago?              
+
+236888	51	b'Wenn es das ist, was ich hoffe, da\xe1 es ist, dann...'
+If it is what I think it is, then...               
+
+237325	38	b'Ziemlich weit weg. Laufen kann ich bis'
+Pretty far away. I can't walk all the 
+
+237364	47	b'dahin kaum. Aber fliegen kann ich auch nicht...'
+way. And I can't fly either.                   
+
+237413	25	b'Sieh an ! Eine Ladeluke !'
+Look! A cargo hatch.     
+
+237439	33	b'Das mu\xe1 eine Art Laderaum sein...'
+That must be a cargo hold.       
+
+237473	38	b'Die Ladeluke ist offen. Dahinter liegt'
+The hatch is open. Behind it appears  
+
+237512	26	b'offenbar ein dunkler Raum.'
+to be a dark room.        
+
+237539	37	b'Ein richtig altmodischer Raumdampfer.'
+An old-fashioned space freighter.    
+
+237577	30	b'K\x94nnte man vielleicht noch als'
+Might still be able to sell it
+
+237608	21	b'Antiquit\x84t verkaufen.'
+as an antique.       
+
+237630	37	b'Gut, da\xe1 ich da bei der Landung nicht'
+Good thing I didn't get stuck in     
+
+237668	22	b'h\x84ngengeblieben bin...'
+the cargo here...     
+
+237691	35	b'Jetzt m\x81\xe1te es nur noch anspringen.'
+Now it just needs to start up.     
+
+237727	44	b'Tja... da ist nicht viel los mit "benutzen".'
+Well, not much happening with "use".        
+
+237772	37	b'Dem Auto fehlt wohl noch irgendwas...'
+This car is missing something...     
+
 238323	29	b'Ziemlich zu, w\x81rde ich sagen.'
 Close, I'd say.              
 
@@ -2278,363 +2641,178 @@ Why, this is empty.
 239853	17	b'Sauerstoffpatrone'
 oxygen cartridge 
 
-193035	1	b' '
-
-218635	35	b'...nun immer sch\x94n leise bleiben...'
-
-220615	42	b'Lieber nicht. Das w\x84re viel zu gef\x84hrlich.'
-
-220659	46	b'Zelle 101... die hat mich nicht halten k\x94nnen.'
-
-220706	45	b'Zelle 102... Ob da auch jemand drin schmort ?'
-
-220752	39	b'Aha... da scheint ein Gang abzuzweigen.'
-
-220792	37	b'Dort f\x81hrt eine Treppe zur Amtsstube.'
-
-220830	27	b'Noch eine T\x81r... Zelle 103.'
-
-222592	46	b'Erstaunlich, da\xe1 das Tier so friedlich ist...?'
-
-222640	33	b'Das ist wohl eine Art Frachtraum.'
-
-222674	34	b'Von denen scheint keiner besondere'
-
-222709	17	b'Angst zu haben...'
-
-222727	29	b'Aha, das Herrchen. Ich hoffe,'
-
-222757	32	b'der Mann versteht sein Handwerk.'
-
-223070	46	b'Mit dem ist sicher nicht gut Kirschen essen...'
-
-223118	30	b'Das wird der Kommandeur dieser'
-
-223149	42	b'Einheit sein. Ein ziemlich finsterer Kerl.'
-
-223192	23	b'So ein h\x81bsches Ding...'
-
-223216	39	b'Sieht aus, als w\x84re sie eine Gefangene.'
-
-223256	36	b'Eine sch\x94ne T\x81r. Besonders, weil man'
-
-223293	41	b'durch sie hier wieder `rauskommen kann...'
-
-223335	44	b'Genau das Richtige um Elefanten zu schie\xe1en.'
-
-223380	52	b'Ich sollte vorsichtig sein. Der Kerl ist bewaffnet !'
-
-223433	30	b'Ich bin doch nicht lebensm\x81de.'
-
-223464	28	b'Der Kerl w\x81rde mich r\x94sten !'
-
-227331	24	b'Das ist zwar nur Erde...'
-
-227356	25	b'aber ich w\x81rde mindestens'
-
-227382	23	b'eine Schaufel brauchen.'
-
-227407	38	b'Das ist mal eine richtige h\x81bsche T\x81r.'
-
-227446	22	b'H\x81bsch dick und solide'
-
-227469	31	b'Solide Wand - da werd` ich mich'
-
-227501	23	b'kaum durchnagen k\x94nnen.'
-
-227596	48	b'Eine wahrlich karge Bettstatt. Da war es in Frau'
-
-227645	48	b'Forster`s Pension doch wesentlich gem\x81tlicher...'
-
-227694	35	b'Du lieber Himmel - das Ding scheint'
-
-227730	27	b'auch noch morsch zu sein...'
-
-227758	34	b'Noch ein paar mal hoch und runter,'
-
-227793	35	b'und ich mu\xe1 auf dem Boden schlafen.'
-
-227829	43	b'Die ist den Weg alles Irdischen gegangen...'
-
-227873	40	b'...ein bi\xe1chen mit meiner Unterst\x81tzung.'
-
-227914	34	b'Eine einzelne, brauchbare Latte...'
-
-227949	38	b'der Rest ist nur noch morscher Abfall.'
-
-227988	37	b'Das soll wohl die Verpflegung sein...'
-
-228026	32	b'Ein L\x94ffel zum l\x94ffeln von Brei.'
-
-228059	20	b'Der Napf ist leer...'
-
-228080	32	b'Kleebrigrr, kluumpigrr Rrreis...'
-
-228113	42	b'Sieh an ! Ein lockerer Mauerstein. Da wird'
-
-228156	43	b'sich doch nicht etwa eine Chance er\x94ffnen ?'
-
-228200	41	b'Jetzt schlafen ? Jetzt, wo hier (\x84hem...)'
-
-228242	59	b'der B\x84r los ist ? Niemals ! Ich k\x94nnte ja etwas verpassen !'
-
-228311	34	b'Ich hab mal in einen Film gesehen,'
-
-228346	33	b'wie Arnie Wei\xe1enpfluger so`n Ding'
-
-228380	37	b'mit der blanken Faust zerbrochen hat.'
-
-228418	33	b'Aber irgendwie fehlt mir der Mut.'
-
-228496	5	b'Latte'
-
-228768	40	b'Der Etagenkellner hat heut` wohl frei...'
-
-228839	4	b'Wand'
-
-228857	40	b'He... was war das ? Das klingt ja hohl !'
-
-228898	31	b'Dahinter mu\xe1 ein Hohlraum sein.'
-
-228930	10	b'Mauerstein'
-
-229006	28	b'Sieh an ! Es hat geklappt...'
-
-229035	6	b'L\x94ffel'
-
-229052	4	b'Brei'
-
-229057	27	b'Gute Idee, aber ich glaube,'
-
-229085	40	b'die RECHTE Wand eignet sich besser dazu.'
-
-229244	9	b'Na bitte.'
-
-229254	24	b'Jetzt aber vorsichtig...'
-
-229339	46	b'Ich sollte vorher das Zeug vom Boden aufheben.'
-
-229386	33	b'Sonst stolpere ich noch dar\x81ber !'
-
-229420	4	b'Loch'
-
-233359	34	b'Da geht`s tief in den Fels hinein.'
-
-233394	42	b'Vielleicht ist das so etwas wie eine Mine.'
-
-233438	37	b'Sieht aus wie eine Wachh\x81tte oder so.'
-
-233476	48	b'Eine riesige Plattform - wozu die wohl gut ist ?'
-
-233525	21	b'Eine stabile Holzt\x81r.'
-
-233547	49	b'Huiii... Da geht`s aber ein paar Meter `runter...'
-
-233597	30	b'Ein zartes Bl\x81mchen. Wie lieb.'
-
-233628	28	b'Eine Art Drachenskulptur...?'
-
-233657	39	b'Der Typ sieht ziemlich ungem\x81tlich aus.'
-
-233697	50	b'Die riesigen St\x81tzpfeiler ragen bis in den Himmel.'
-
-233748	32	b'Oje. Soll ich das wirklich tun ?'
-
-234803	44	b'Das ist die Innent\x81r - wenn man das hier als'
-
-234848	25	b'Schleuse bezeichnen kann.'
-
-234875	32	b'Wenn das hier eine Schleuse ist,'
-
-234908	26	b'dann ist das die Au\xe1ent\x81r.'
-
-234935	19	b'Ein Riesen-Handrad.'
-
-234955	25	b'Erinnert mich ein bi\xe1chen'
-
-234981	19	b'an ein Segelschiff.'
-
-235001	31	b'Das Ding r\x81hrt sich kein St\x81ck.'
-
-235033	36	b'Na bitte - jetzt str\x94mt Luft herein.'
-
-235070	8	b'Innent\x81r'
-
-235079	8	b'Au\xe1ent\x81r'
-
-235088	36	b'Ich glaube, ich habe etwas wichtiges'
-
-235125	24	b'im Labyrinth vergessen !'
-
-235150	44	b'Die geht jetzt nicht auf. Der Druck h\x84lt sie'
-
-235195	12	b'geschlossen.'
-
-235208	44	b'Das wird nicht gehen. Der Luftdruck h\x84lt sie'
-
-236485	44	b'Ich sch\x84tze, ich sollte mich nicht r\x81ckw\x84rts'
-
-236530	46	b'bewegen, sondern eher voran. Und das hei\xe1t...!'
-
-236578	34	b'Da geht`s ja ganz sch\x94n `runter...'
-
-236613	14	b'Mein Mondauto.'
-
-236628	49	b'Eine h\x81bsche Br\x81cke. Hoffentlich h\x84lt sie auch...'
-
-236678	50	b'Diese Sternenbilder hab` ich noch nie gesehen. Mu\xe1'
-
-236729	42	b'ganz ganz sch\x94n weit weg von zuhause sein.'
-
-236772	33	b'Das sind ja seltsame Formationen.'
-
-236806	40	b'Ob es hier mal eine atembare Athmosph\x84re'
-
-236847	40	b'gegeben hat ? Vor einer Million Jahren ?'
-
-236888	51	b'Wenn es das ist, was ich hoffe, da\xe1 es ist, dann...'
-
-237325	38	b'Ziemlich weit weg. Laufen kann ich bis'
-
-237364	47	b'dahin kaum. Aber fliegen kann ich auch nicht...'
-
-237413	25	b'Sieh an ! Eine Ladeluke !'
-
-237439	33	b'Das mu\xe1 eine Art Laderaum sein...'
-
-237473	38	b'Die Ladeluke ist offen. Dahinter liegt'
-
-237512	26	b'offenbar ein dunkler Raum.'
-
-237539	37	b'Ein richtig altmodischer Raumdampfer.'
-
-237577	30	b'K\x94nnte man vielleicht noch als'
-
-237608	21	b'Antiquit\x84t verkaufen.'
-
-237630	37	b'Gut, da\xe1 ich da bei der Landung nicht'
-
-237668	22	b'h\x84ngengeblieben bin...'
-
-237691	35	b'Jetzt m\x81\xe1te es nur noch anspringen.'
-
-237727	44	b'Tja... da ist nicht viel los mit "benutzen".'
-
-237772	37	b'Dem Auto fehlt wohl noch irgendwas...'
-
 242234	11	b'N\x81ssehaufen'
+Pile o'nuts
 
 242246	12	b'Sprechanlage'
+Speaker     
 
 242259	5	b'Knopf'
+Knob 
 
 242884	10	b'Wachleiter'
+Main watch
 
 242895	15	b'Drakkenoffizier'
+Drakken officer
 
 246019	35	b'Das ist irgendein Ersatzteil-Regal.'
+That's a spare parts shelf.        
 
 246056	41	b'Ein Hebel. Irgendwas wird wohl passieren,'
+A lever. Something's bound to happen when
 
 246098	43	b'wenn ich ihn bewege. Fragt sich nur - was ?'
+I move it. Question is: what?              
 
 246142	38	b'Eine Werkbank. Ziemlich \x94lverschmiert.'
+A workbench. Quite messy.             
 
 246181	52	b'Wohl eines von den m\x84chtig vielen Ersatzteilen hier.'
+Probably one of the many spare parts around here.   
 
 246234	29	b'Das Abenteuer f\x84ngt ja gut an'
+Off to a good start...       
 
 246264	28	b'Irgendein gr\x94\xe1eres Aggregat.'
+Some large machinery.       
 
 246293	33	b'Schwer zu sagen, wozu es gut ist.'
+Hard to tell what it's for.      
 
 246327	23	b'Eine richtige Batterie.'
+A real battery.        
 
 246351	32	b'Und frisch geladen ist sie auch.'
+And even fully charged.         
 
 246384	33	b'Da werden Batterien drin geladen.'
+You can charge batteries in it.  
 
 246418	34	b'Scheint genau dort hineinzupassen.'
+Seems to fit right in there.      
 
 246453	38	b'Ein Hohlraum. Aber - wozu ist er gut ?'
+A cavity. But what is it for?         
 
 246492	41	b'Der unvermeidliche, gro\xe1e, rote Schalter.'
+The inevitable big red switch.           
 
 246534	57	b'Tja - sowas darf in keinem anst\x84ndigen Abenteuer fehlen !'
+Something like this can't be missing in any adventure!   
 
 246592	35	b'Ist wohl so was wie ein Mondauto...'
+This is something like a moon car. 
 
 246628	60	b'W\x84re ja nicht schlecht, wenn ich das Ding zum laufen bek\x84me.'
+Would be nice if I could get this thing running.            
 
 246689	26	b'R\x84der !!! Un-glaub-lich !!'
+Wheels!!! Unbelievable!!  
 
 246716	36	b'Ein kleiner Knopf. Den wird man doch'
+A small button. Surely, one can     
 
 246753	27	b'wohl nicht dr\x81cken k\x94nnen ?'
+press it, right?           
 
 246781	40	b'Tja - wenn das Ding nicht fahren will...'
+Well, if this thing won't drive...      
 
 246822	46	b'12 Zylinder, Doppelvergaser... nicht schlecht.'
+12 cylinders, dual carburetors... not bad.    
 
 246869	54	b'Ich hoffe, in der H\x94hlenwelt gibt es kein Speed-Limit.'
+I hope there's no speed limit in the cave world.      
 
 246924	27	b'Eine Klappe. Zum Zuklappen.'
+A flap. For closing.       
 
 246952	29	b'Oder Aufklappen. Je nach dem.'
+Or opening. Depends.         
 
 246982	47	b'Da steckt eine Batterie im Schacht. Erfreulich.'
+There's a battery in the compartment. Woo!     
 
 247030	40	b'Da steckt ein kleiner Kasten im Schacht.'
+There's a small box in the compartment. 
 
 247071	26	b'Offenbar etwas deplaziert.'
+Seemingly out of place.   
 
 247098	34	b'Ein kleiner Schacht. Sieht so aus,'
+A small compartment. It looks like
 
 247133	45	b'als geh\x94re dort ein spezielles Teil hinein...'
+a specific part belongs in there...          
 
 247179	24	b'Was ist das ? Ein Art...'
+What is that? Some kind 
 
 247204	33	b'raumfahrttechnischer Bremsklotz ?'
+of... aerospace brake block?     
 
 247238	21	b'Hm... klappt nicht...'
+Huh, doesn't work... 
 
 247260	7	b'Schacht'
+Duct   
 
 247268	16	b'R3BatterieNehmen'
+R3BatterieNehmen
 
 247285	8	b'Hohlraum'
+Cavity  
 
 247294	30	b'Ich sch\x84tze mal, die ist voll.'
+I assume it's charged.        
 
 247325	47	b'Uff! Das verdammte Ding r\x81hrt sich kein St\x81ck !'
+This damn thing isn't budging at all!          
 
 247373	22	b'Na bitte - geht doch !'
+There you go, it works
 
 247396	48	b'Sieh an... das war der Knopf f\x81r die Motorhaube.'
+Look at that, it was the button for the hood.   
 
 247445	8	b'Maschine'
+Machine 
 
 247454	6	b'Klappe'
+Flap  
 
 247461	8	b'Batterie'
+Battery 
 
 247470	6	b'Kasten'
+Box   
 
 247477	23	b'Hm. Da passiert nichts.'
+Nothing happened.      
 
 247501	38	b'Sieh an - ist wohl eine Art Ladeger\x84t.'
+Looks like a kind of charger.         
 
 247540	25	b'Hm. Da passiert nichts...'
+Nothing happens...       
 
 247566	36	b'Hm. Irgendwas hab` ich noch nicht...'
+I think I'm missing something...    
 
 247603	37	b'Wer sein Mondauto liebt, der schiebt.'
+Giving it a push                     
 
 247641	8	b'Mondauto'
+Moon car
 
 247650	5	b'R\x84der'
+Wheel
 
 247662	7	b'Cockpit'
+Cockpit
+
+193035	1	b' '
 
 247670	25	b'Hat sich was mit starten.'
 
