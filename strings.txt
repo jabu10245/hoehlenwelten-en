@@ -1663,6 +1663,480 @@ Not far from the pear tree.
 193248	19	b'Ein Pilz, ein Pilz.'
 Yay, a mushroom.   
 
+193268	34	b'Ob der giftig ist ? Oder heilsam ?'
+Is it poisenous? Or salutary?     
+
+193303	39	b'Vielleicht sollte ich mal mein schlaues'
+Maybe I should consult my              
+
+193343	20	b'Buch konsultieren...'
+smart book...       
+
+193364	42	b'Hm - Da scheint es irgendeinen unbekannten'
+Huh, there seems to be some unknown       
+
+193407	60	b'Bewohner in diesem See zu geben. Fragt sich nur, ob der sich'
+inhabitant in this lake. The only question is, whether      
+
+193468	44	b'freuen w\x81rde, meine Bekanntschaft zu machen.'
+he would be happy to make my acquaintance.  
+
+193513	47	b'Oder anders`s rum: Ob ich mich besonders freuen'
+Or the other way around: Would I be happy to   
+
+193561	38	b'w\x81rde, SEINE Bekanntschaft zu machen ?'
+make HIS acquaintance?                
+
+193600	27	b'Das ist wohl ein Golaabaum.'
+This is a Golaa tree.      
+
+193628	35	b'Golaan\x81sse - gro\xe1, rund und saftig.'
+Golaa nuts - big, round and juicy. 
+
+193664	46	b'Aber leider f\x81r Menschen - und H\x94hlenweltler -'
+But sadly ineditable for humans -             
+
+193711	19	b'v\x94llig ungenie\xe1bar.'
+and cave worlders. 
+
+193731	43	b'Da schwimmen ein paar Golaan\x81sse im Wasser.'
+Some golaa nuts are swimming in the water. 
+
+193775	36	b'Sind wohl vom Baum heruntergefallen.'
+They must have falled off the tree. 
+
+193812	8	b'Treffer.'
+Bingo!  
+
+198225	23	b'Dies ist ein Gef\x84ngnis.'
+This is a prison.      
+
+198249	34	b'Hier stehen die T\x81ren nicht offen.'
+The doors aren't open here.       
+
+198285	17	b'Eine Landebahn...'
+A runway...      
+
+198303	31	b'...f\x81r Drachen und andere UFOs.'
+... for dragons and other UFOs.
+
+198335	29	b'Die Kommandantur der Kaserne.'
+The command of the barracks. 
+
+198365	43	b'Das sind wohl die Unterk\x81nfte der Soldaten.'
+These are probably the soldiers' quarters. 
+
+198409	30	b'Ein Wachsoldat. Hier wird wohl'
+A guard. Here, everything and 
+
+198440	29	b'alles und jedes kontrolliert.'
+everyone is being monitored. 
+
+198470	40	b'Das mu\xe1 eins dieser Drakkenschiffe sein.'
+This must be one of the drakken ships.  
+
+198511	34	b'Besser, ich geh` nicht zu nah `ran'
+I better don't get too near       
+
+198546	24	b'Ein Schuppen. Wie sch\x94n.'
+A shed. Nice.           
+
+198571	33	b'Sieht wie ein Munitionslager aus.'
+Looks like an ammunition depot.  
+
+198605	50	b'Da mach ich lieber einen ganz gro\xe1en Bogen drum...'
+I'd rather give it a wide berth...                
+
+198656	23	b'Die T\x81r ist abgesperrt.'
+The door is locked.    
+
+198680	21	b'Was wohl da drin ist.'
+What's in there?     
+
+198702	26	b'Die Schuppent\x81r ist offen.'
+The shed's door is open.  
+
+198729	52	b'Das ist die Eingangst\x81r zum hinteren Gef\x84ngnistrakt.'
+This is the entrance door to the rear prison wing.  
+
+198782	11	b'Schuppent\x81r'
+Shed door  
+
+198794	42	b'Hm. Dieser Schl\x81ssel passt offenbar nicht.'
+Oh. Apparently, this key doesn't fit.     
+
+198837	27	b'Die T\x81r ist doch schon auf.'
+The door is already open.  
+
+199876	34	b'Der Bursche schl\x84ft wie ein Stein.'
+This lad sleeps like a stone.     
+
+199911	26	b'Zers\x84gt einen ganzen Wald.'
+Saws an entire forest.    
+
+199939	30	b'Hoppla ! Da schl\x84ft ja einer !'
+Whoops! Someone is asleep.    
+
+199970	33	b'Sieh mal einer an - ein W\x84chter !'
+Would you look at that - a guard!
+
+200004	33	b'Gl\x81ck f\x81r mich und Pech f\x81r ihn !'
+Luck for me, bad luck for him!   
+
+200038	7	b'W\x84chter'
+Guard  
+
+200086	40	b'Holla ! Wenn das mal nicht die Schl\x81ssel'
+Yay! This might be the key to the chef's
+
+200127	33	b'zum Weinkeller des Chefs sind...!'
+wine cellar...!                  
+
+200176	20	b'Der Hauptschl\x81ssel !'
+The main key!       
+
+200197	36	b'Wenn ich da nur `rankommen k\x94nnte...'
+If only I could get to it...        
+
+200273	44	b'Er hat ihn schon, meine Damen und Herren...!'
+He already has it, ladies and gentlemen...! 
+
+200907	45	b'Zelle 202... Ob da auch jemand drin schmort ?'
+Cell 202... Is there somebody in there?      
+
+200954	27	b'Noch eine T\x81r... Zelle 203.'
+Another door... Cell 203.  
+
+200982	33	b'Das mu\xe1 der hintere Ausgang sein.'
+This must be the back exit.      
+
+201016	9	b'Zellent\x81r'
+Cell door
+
+201026	11	b'Ausgangst\x81r'
+Exit door  
+
+201081	59	b'Offene T\x81ren aufschlie\xe1en ? Nein soweit bin ich noch nicht.'
+Unlock open doors? No, I'm not there yet.                  
+
+201141	33	b'Hatte ich da nicht einer h\x81bschen'
+Hadn't I promised a pretty young 
+
+201175	26	b'jungen Dame versprochen...'
+lady that I would save    
+
+201202	25	b'sie zu retten oder so...?'
+her or something?        
+
+202759	25	b'Der Boden ist der gleiche'
+The floor is the same as 
+
+202785	25	b'wie \x81berall sonst auch...'
+everywhere else...       
+
+202812	28	b'Langweiliges Ding. Hilft mir'
+Boring thing, doesn't help  
+
+202841	18	b'auch nicht weiter.'
+me either.        
+
+202860	36	b'Zellent\x81r einfach, Standardmodell...'
+Simple cell door, standard model... 
+
+202897	33	b'Tja, wo soll`s hier was geben...?'
+There's supposed to be something?
+
+202931	28	b'Dick, stark und wasserdicht.'
+Thick, strong and waterproof
+
+202960	27	b'Ich war mal wo, da war`n...'
+I've been to a place with  
+
+202988	22	b'die W\x84nde aus Gummi...'
+walls made of rubber. 
+
+203011	47	b'Die gleiche Pritsche wie in den anderen Zellen.'
+The same bunk as in the other cells.           
+
+203059	27	b'Eine T\x81rangel. Ganz normal.'
+A normal door hinge.       
+
+203087	34	b'Hm... wenn man genauer hinsieht...'
+Huh... if you look closer...      
+
+203122	28	b'Ich meine, wenn man wirklich'
+I mean, when you look REALLY
+
+203151	22	b'GANZ genau hinsieht...'
+really close...       
+
+203174	16	b'So genau, da\xe1 es'
+It can't get any
+
+203191	26	b'genauer nicht mehr geht...'
+more precise than that... 
+
+203218	30	b'Dann ist da beim besten Willen'
+Then there's NOTHING more     
+
+203249	22	b'NICHTS zu entdecken...'
+to discover... Or is  
+
+203272	31	b'Oder ist da etwa DOCH etwas...?'
+there something after all?     
+
+203304	5	b'Stift'
+Pen  
+
+203310	29	b'Das ist ein Stift, wie es ihn'
+That's a pen, as there is in 
+
+203340	23	b'in jeder T\x81rangel gibt.'
+any door hinge.        
+
+203364	39	b'Wenn man allerdings genauer hinsieht...'
+But if you take a closer look...       
+
+203404	9	b'Quel-Than'
+Quel-Than
+
+203414	28	b'Ein ganz normaler Quel-Than.'
+A regular Quel-Than.        
+
+203443	48	b'Man k\x94nnte jedoch noch etwas genauer hinsehen...'
+One could take a closer look though...          
+
+203492	33	b'Ich glaube, ich handle mir ernste'
+I think I'm going to get myself  
+
+203526	41	b'Schwierigkeiten ein, wenn ich jetzt nicht'
+into serious trouble if I don't stop     
+
+203568	32	b'bald mit diesem Unfug aufh\x94re...'
+this nonsense...                
+
+203601	29	b'Also: da ist der Quel-Than...'
+So: there's the Quel-Than... 
+
+203631	41	b'Nein, Nein. Ich bin \x81berhaupt nicht m\x81de.'
+No. No. I'm not tired at all.            
+
+203673	8	b'Pritsche'
+Bunk bed
+
+203692	28	b'Nichts als steinerner Stein.'
+Nothing but a stony stone.  
+
+203721	28	b'Tja. Da ist rein gar nichts.'
+Well, nothing there at all. 
+
+203750	16	b'Hier ist nichts.'
+Nothing here.   
+
+203810	29	b'Der Boden ist hier steinhart.'
+The floor is rock hard.      
+
+203840	44	b'Ich sollte mir eine weichere Stelle suchen !'
+I should look for a softer spot!            
+
+208387	26	b'Ein ganz normaler Boden...'
+A normal floor...         
+
+208415	29	b'Ziemlich kr\x84ftig, das Ding...'
+That thing is pretty strong. 
+
+208445	31	b'Solide Wand - ob man wenigstens'
+Sold wall - can you at least   
+
+208477	22	b'mit ihr reden kann...?'
+talk to it...?        
+
+208500	25	b'Bester H\x94hlenwelt-Fels...'
+Best cave world rock...  
+
+208526	25	b'Wer hier mal festsitzt...'
+If you're stuck here, you
+
+208552	30	b'...der kommt nicht mehr `raus.'
+won't be able to get out.     
+
+208583	36	b'Die Pritschen sind hier alle gleich.'
+The bunk beds are all the same here.
+
+208620	45	b'Zum Schafen habe ich nun wirklich keine Zeit.'
+There's no time to sleep now.                
+
+208685	16	b'Klingt wie Fels.'
+Sounds like rock
+
+208702	39	b'Hier f\x81hrt auch kein Geheimgang weiter.'
+There's no secret passage here.        
+
+208742	20	b'Nein. Alles kompakt.'
+No. All compact.    
+
+210368	18	b'Gestampfte Erde...'
+Compacted earth...
+
+210387	29	b'na, immerhin ist sie trocken.'
+Well, at least it's dry.     
+
+210418	25	b'Solide Handwerksarbeit...'
+Solid craftsmanship...   
+
+210619	45	b'F\x81r ein Nickerchen fehlt mir leider die Zeit.'
+I don't have time for a nap.                 
+
+210674	10	b'Geheimgang'
+Secret way
+
+210695	29	b'Aua. Ziemlich hart, das Zeug.'
+Ouch. Pretty hard stuff.     
+
+210904	8	b'Pssst...'
+Shh...  
+
+210913	28	b'...immer sch\x94n leise sein...'
+...always be quiet...       
+
+212670	22	b'Das ist der Zugang zum'
+This is the entrance  
+
+212693	31	b'hinteren Teil des Gef\x84ngnisses.'
+to the back of the prison.     
+
+212726	40	b'Dort geht es zum vorderen Gef\x84ngnisgang.'
+The path to the front of the prison.    
+
+212767	27	b'Den Tisch kenne ich auch...'
+I know this table well...  
+
+212795	30	b'Da geht es in die Zelle 201...'
+There's cell 201...           
+
+213619	27	b'Das ist nicht ungef\x84hrlich.'
+That's not without danger. 
+
+213647	30	b'Ob ich wirklich gehen soll...?'
+Should I really go...?        
+
+213679	4	b'Gang'
+Path
+
+213818	22	b'Da ist ja mein Spezi !'
+There's my buddy!     
+
+213841	45	b'Fragt sich nur, wie tief er wirklich schl\x84ft.'
+Question is, how deeply he really sleeps.    
+
+213918	48	b'Ich wei\xe1 nicht, ob ich dem Kerl gewachsen bin...'
+I'm not sure if I'm a match for this guy...     
+
+213967	42	b'Und `ne Menge Krach machen w\x81rde das auch.'
+And it would make a lot of noise, too.    
+
+214750	29	b'Hm... was ist denn da los...?'
+Huh... what's going on there?
+
+214831	15	b'noch mehr Boden'
+more floor     
+
+214858	13	b'Lieber nicht.'
+Better not.  
+
+214872	33	b'Am Ende haut sie noch zur\x81ck...?!'
+She might beat back...?!         
+
+214916	45	b'Dazu br\x84uchte man mindestens einen Zerst\x94rer.'
+For that I'd need a destroyer at least.      
+
+214962	38	b'Aber hier gibts ja nicht mal Wasser...'
+But there's not even water here...    
+
+215001	42	b'Ich versuchs`s mal mit einem vernichtenden'
+I'll try with a devastating look...       
+
+215044	37	b'Blick...hmmmmpf...nein, klappt nicht.'
+... no, doesn't work.                
+
+215082	40	b'Vom Aufrei\xe1en hab` ich schon mal geh\x94rt.'
+I've heard of tearing stuff open. But   
+
+215123	39	b'Aber wie ging das gleich wieder mit dem'
+how does tearing stuff down work again?
+
+215163	18	b'Niederrei\xe1en...?!?'
+Tear down...?!?   
+
+215182	28	b'Klopffestigkeit... 98 Oktan.'
+Knock resistance, 98 octane.
+
+215228	37	b'Wie kann man nur so zugemauert sein ?'
+How can you be walled up like that?  
+
+215266	35	b'Eine Riesenwand. Dick und riesig...'
+A giant wall. Thick and huge...    
+
+215429	35	b'...da k\x94nnte ja jemand aufwachen...'
+...could wake someone up...        
+
+217799	31	b'Ein Boden aus gestampfter Erde.'
+A floor of rammed earth.       
+
+217832	31	b'Das einzige, was hier von guter'
+The only thing here of good    
+
+217864	31	b'Qualit\x84t ist... sind die T\x81ren.'
+quality... are the doors.      
+
+217896	48	b'Solide Wand - zu hart f\x81r meine dritten Z\x84hne...'
+Solid wall - too hard for my choppers...        
+
+217945	26	b'Granit reinsten Wassers...'
+Granite of pure water...  
+
+217972	20	b'Ein echtes Bollwerk.'
+A real fortress.    
+
+217993	22	b'Da kommt keiner durch.'
+No getting through.   
+
+218016	37	b'Noch so eine ungem\x81tliche Pritsche...'
+Another uncomfortable bunk bed...    
+
+218054	26	b'Freiheit, s\x81\xe1e Freiheit...'
+Freedom, sweet freedom... 
+
+218081	35	b'Zum Schlafen habe ich keine Zeit...'
+No time for a nap...               
+
+218269	26	b'Wie ging das gleich wieder'
+How did it work again, the
+
+218296	22	b'mit dem Vernichten...?'
+destructing...?       
+
+218319	12	b'\x8ehem.. also:'
+Ahem... so: 
+
+218332	27	b'HEBE DICH HINFORT, WAND !!!'
+LIFT YOURSELF AWAY, WALL!!!
+
+218360	32	b'Hmm... klappt irgendwie nicht...'
+Huh... doesn't seem to work...  
+
+218393	19	b'Niemand zuhause...?'
+Nobody home...?    
+
+218413	29	b'H\x94rt sich ziemlich solide an.'
+Sounds pretty solid.         
+
+218443	28	b'Hallooo...? Jemand zuhause ?'
+Hellooooo...? Anybody home? 
+
+218626	8	b'Soooo...'
+Sooo... 
+
 238323	29	b'Ziemlich zu, w\x81rde ich sagen.'
 Close, I'd say.              
 
@@ -1805,322 +2279,6 @@ Why, this is empty.
 oxygen cartridge 
 
 193035	1	b' '
-
-193268	34	b'Ob der giftig ist ? Oder heilsam ?'
-
-193303	39	b'Vielleicht sollte ich mal mein schlaues'
-
-193343	20	b'Buch konsultieren...'
-
-193364	42	b'Hm - Da scheint es irgendeinen unbekannten'
-
-193407	60	b'Bewohner in diesem See zu geben. Fragt sich nur, ob der sich'
-
-193468	44	b'freuen w\x81rde, meine Bekanntschaft zu machen.'
-
-193513	47	b'Oder anders`s rum: Ob ich mich besonders freuen'
-
-193561	38	b'w\x81rde, SEINE Bekanntschaft zu machen ?'
-
-193600	27	b'Das ist wohl ein Golaabaum.'
-
-193628	35	b'Golaan\x81sse - gro\xe1, rund und saftig.'
-
-193664	46	b'Aber leider f\x81r Menschen - und H\x94hlenweltler -'
-
-193711	19	b'v\x94llig ungenie\xe1bar.'
-
-193731	43	b'Da schwimmen ein paar Golaan\x81sse im Wasser.'
-
-193775	36	b'Sind wohl vom Baum heruntergefallen.'
-
-193812	8	b'Treffer.'
-
-198225	23	b'Dies ist ein Gef\x84ngnis.'
-
-198249	34	b'Hier stehen die T\x81ren nicht offen.'
-
-198285	17	b'Eine Landebahn...'
-
-198303	31	b'...f\x81r Drachen und andere UFOs.'
-
-198335	29	b'Die Kommandantur der Kaserne.'
-
-198365	43	b'Das sind wohl die Unterk\x81nfte der Soldaten.'
-
-198409	30	b'Ein Wachsoldat. Hier wird wohl'
-
-198440	29	b'alles und jedes kontrolliert.'
-
-198470	40	b'Das mu\xe1 eins dieser Drakkenschiffe sein.'
-
-198511	34	b'Besser, ich geh` nicht zu nah `ran'
-
-198546	24	b'Ein Schuppen. Wie sch\x94n.'
-
-198571	33	b'Sieht wie ein Munitionslager aus.'
-
-198605	50	b'Da mach ich lieber einen ganz gro\xe1en Bogen drum...'
-
-198656	23	b'Die T\x81r ist abgesperrt.'
-
-198680	21	b'Was wohl da drin ist.'
-
-198702	26	b'Die Schuppent\x81r ist offen.'
-
-198729	52	b'Das ist die Eingangst\x81r zum hinteren Gef\x84ngnistrakt.'
-
-198782	11	b'Schuppent\x81r'
-
-198794	42	b'Hm. Dieser Schl\x81ssel passt offenbar nicht.'
-
-198837	27	b'Die T\x81r ist doch schon auf.'
-
-199876	34	b'Der Bursche schl\x84ft wie ein Stein.'
-
-199911	26	b'Zers\x84gt einen ganzen Wald.'
-
-199939	30	b'Hoppla ! Da schl\x84ft ja einer !'
-
-199970	33	b'Sieh mal einer an - ein W\x84chter !'
-
-200004	33	b'Gl\x81ck f\x81r mich und Pech f\x81r ihn !'
-
-200038	7	b'W\x84chter'
-
-200086	40	b'Holla ! Wenn das mal nicht die Schl\x81ssel'
-
-200127	33	b'zum Weinkeller des Chefs sind...!'
-
-200176	20	b'Der Hauptschl\x81ssel !'
-
-200197	36	b'Wenn ich da nur `rankommen k\x94nnte...'
-
-200273	44	b'Er hat ihn schon, meine Damen und Herren...!'
-
-200907	45	b'Zelle 202... Ob da auch jemand drin schmort ?'
-
-200954	27	b'Noch eine T\x81r... Zelle 203.'
-
-200982	33	b'Das mu\xe1 der hintere Ausgang sein.'
-
-201016	9	b'Zellent\x81r'
-
-201026	11	b'Ausgangst\x81r'
-
-201081	59	b'Offene T\x81ren aufschlie\xe1en ? Nein soweit bin ich noch nicht.'
-
-201141	33	b'Hatte ich da nicht einer h\x81bschen'
-
-201175	26	b'jungen Dame versprochen...'
-
-201202	25	b'sie zu retten oder so...?'
-
-202759	25	b'Der Boden ist der gleiche'
-
-202785	25	b'wie \x81berall sonst auch...'
-
-202812	28	b'Langweiliges Ding. Hilft mir'
-
-202841	18	b'auch nicht weiter.'
-
-202860	36	b'Zellent\x81r einfach, Standardmodell...'
-
-202897	33	b'Tja, wo soll`s hier was geben...?'
-
-202931	28	b'Dick, stark und wasserdicht.'
-
-202960	27	b'Ich war mal wo, da war`n...'
-
-202988	22	b'die W\x84nde aus Gummi...'
-
-203011	47	b'Die gleiche Pritsche wie in den anderen Zellen.'
-
-203059	27	b'Eine T\x81rangel. Ganz normal.'
-
-203087	34	b'Hm... wenn man genauer hinsieht...'
-
-203122	28	b'Ich meine, wenn man wirklich'
-
-203151	22	b'GANZ genau hinsieht...'
-
-203174	16	b'So genau, da\xe1 es'
-
-203191	26	b'genauer nicht mehr geht...'
-
-203218	30	b'Dann ist da beim besten Willen'
-
-203249	22	b'NICHTS zu entdecken...'
-
-203272	31	b'Oder ist da etwa DOCH etwas...?'
-
-203304	5	b'Stift'
-
-203310	29	b'Das ist ein Stift, wie es ihn'
-
-203340	23	b'in jeder T\x81rangel gibt.'
-
-203364	39	b'Wenn man allerdings genauer hinsieht...'
-
-203404	9	b'Quel-Than'
-
-203414	28	b'Ein ganz normaler Quel-Than.'
-
-203443	48	b'Man k\x94nnte jedoch noch etwas genauer hinsehen...'
-
-203492	33	b'Ich glaube, ich handle mir ernste'
-
-203526	41	b'Schwierigkeiten ein, wenn ich jetzt nicht'
-
-203568	32	b'bald mit diesem Unfug aufh\x94re...'
-
-203601	29	b'Also: da ist der Quel-Than...'
-
-203631	41	b'Nein, Nein. Ich bin \x81berhaupt nicht m\x81de.'
-
-203673	8	b'Pritsche'
-
-203692	28	b'Nichts als steinerner Stein.'
-
-203721	28	b'Tja. Da ist rein gar nichts.'
-
-203750	16	b'Hier ist nichts.'
-
-203810	29	b'Der Boden ist hier steinhart.'
-
-203840	44	b'Ich sollte mir eine weichere Stelle suchen !'
-
-208387	26	b'Ein ganz normaler Boden...'
-
-208415	29	b'Ziemlich kr\x84ftig, das Ding...'
-
-208445	31	b'Solide Wand - ob man wenigstens'
-
-208477	22	b'mit ihr reden kann...?'
-
-208500	25	b'Bester H\x94hlenwelt-Fels...'
-
-208526	25	b'Wer hier mal festsitzt...'
-
-208552	30	b'...der kommt nicht mehr `raus.'
-
-208583	36	b'Die Pritschen sind hier alle gleich.'
-
-208620	45	b'Zum Schafen habe ich nun wirklich keine Zeit.'
-
-208685	16	b'Klingt wie Fels.'
-
-208702	39	b'Hier f\x81hrt auch kein Geheimgang weiter.'
-
-208742	20	b'Nein. Alles kompakt.'
-
-210368	18	b'Gestampfte Erde...'
-
-210387	29	b'na, immerhin ist sie trocken.'
-
-210418	25	b'Solide Handwerksarbeit...'
-
-210619	45	b'F\x81r ein Nickerchen fehlt mir leider die Zeit.'
-
-210674	10	b'Geheimgang'
-
-210695	29	b'Aua. Ziemlich hart, das Zeug.'
-
-210904	8	b'Pssst...'
-
-210913	28	b'...immer sch\x94n leise sein...'
-
-212670	22	b'Das ist der Zugang zum'
-
-212693	31	b'hinteren Teil des Gef\x84ngnisses.'
-
-212726	40	b'Dort geht es zum vorderen Gef\x84ngnisgang.'
-
-212767	27	b'Den Tisch kenne ich auch...'
-
-212795	30	b'Da geht es in die Zelle 201...'
-
-213619	27	b'Das ist nicht ungef\x84hrlich.'
-
-213647	30	b'Ob ich wirklich gehen soll...?'
-
-213679	4	b'Gang'
-
-213818	22	b'Da ist ja mein Spezi !'
-
-213841	45	b'Fragt sich nur, wie tief er wirklich schl\x84ft.'
-
-213918	48	b'Ich wei\xe1 nicht, ob ich dem Kerl gewachsen bin...'
-
-213967	42	b'Und `ne Menge Krach machen w\x81rde das auch.'
-
-214750	29	b'Hm... was ist denn da los...?'
-
-214831	15	b'noch mehr Boden'
-
-214858	13	b'Lieber nicht.'
-
-214872	33	b'Am Ende haut sie noch zur\x81ck...?!'
-
-214916	45	b'Dazu br\x84uchte man mindestens einen Zerst\x94rer.'
-
-214962	38	b'Aber hier gibts ja nicht mal Wasser...'
-
-215001	42	b'Ich versuchs`s mal mit einem vernichtenden'
-
-215044	37	b'Blick...hmmmmpf...nein, klappt nicht.'
-
-215082	40	b'Vom Aufrei\xe1en hab` ich schon mal geh\x94rt.'
-
-215123	39	b'Aber wie ging das gleich wieder mit dem'
-
-215163	18	b'Niederrei\xe1en...?!?'
-
-215182	28	b'Klopffestigkeit... 98 Oktan.'
-
-215228	37	b'Wie kann man nur so zugemauert sein ?'
-
-215266	35	b'Eine Riesenwand. Dick und riesig...'
-
-215429	35	b'...da k\x94nnte ja jemand aufwachen...'
-
-217799	31	b'Ein Boden aus gestampfter Erde.'
-
-217832	31	b'Das einzige, was hier von guter'
-
-217864	31	b'Qualit\x84t ist... sind die T\x81ren.'
-
-217896	48	b'Solide Wand - zu hart f\x81r meine dritten Z\x84hne...'
-
-217945	26	b'Granit reinsten Wassers...'
-
-217972	20	b'Ein echtes Bollwerk.'
-
-217993	22	b'Da kommt keiner durch.'
-
-218016	37	b'Noch so eine ungem\x81tliche Pritsche...'
-
-218054	26	b'Freiheit, s\x81\xe1e Freiheit...'
-
-218081	35	b'Zum Schlafen habe ich keine Zeit...'
-
-218269	26	b'Wie ging das gleich wieder'
-
-218296	22	b'mit dem Vernichten...?'
-
-218319	12	b'\x8ehem.. also:'
-
-218332	27	b'HEBE DICH HINFORT, WAND !!!'
-
-218360	32	b'Hmm... klappt irgendwie nicht...'
-
-218393	19	b'Niemand zuhause...?'
-
-218413	29	b'H\x94rt sich ziemlich solide an.'
-
-218443	28	b'Hallooo...? Jemand zuhause ?'
-
-218626	8	b'Soooo...'
 
 218635	35	b'...nun immer sch\x94n leise bleiben...'
 
