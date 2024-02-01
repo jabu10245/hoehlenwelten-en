@@ -2983,581 +2983,868 @@ Fetches a good trade price.
 257707	40	b'Ein Pilz. Er riecht ein bi\xe1chen komisch.'
 A mushroom. Smells funky.               
 
-193035	1	b' '
-
 257748	48	b'Eine Garnitur... nun: of badly worn Kletterzeug,'
+A set... well, of badly worn climbing gear, as  
 
 257797	44	b'w\x81rde ein Unterweltler sagen. Aber es d\x81rfte'
+an underworld dweller would say. But it     
 
 257842	32	b'noch einigerma\xe1en n\x81tzlich sein.'
+should still be somewhat useful.
 
 257875	44	b'Tja. Leider bin ich zur Zeit absolut PLEITE.'
+Well, unfortunately I'm completely BROKE.   
 
 257922	21	b'Zur Zeit besitze ich '
+At the moment I have 
 
 257944	8	b' Folint.'
+Folint. 
 
 257953	39	b'Eine Eintrittkarte f\x81r einen Vortrag im'
+A ticket for a lecture at the tavern.  
 
 257993	40	b'Wirtshaus. Ein Vortrag \x81ber Drachenzucht'
+A lecture about dragon breeding for the 
 
 258034	19	b'f\x81r`s gemeine Volk.'
+common folk.       
 
 258054	46	b'Eine Sahnetorte von bester Slapstick-Qualit\x84t.'
+A cream cake of the finest slapstick quality. 
 
 258101	39	b'Unfassbar - eine Dose irdisches Bier...'
+Unbelievable, a can of terrestrial beer
 
 258141	25	b'"Harry`s Hopfenbrause"...'
+"Harrys Hopfenbrause"... 
 
 258167	38	b'...gebraut nach dem Reinheitsgebot vom'
+brewed according to the purity law of 
 
 258206	37	b'Herbst 1994. Wenn das kein Fund ist !'
+autumn 1994. What a find!            
 
 258244	38	b'Das soll ich den drei Br\x81dern bringen.'
+I should bring this to the 3 brothers.
 
 258283	48	b'Hm, der Nordost-Teil einer Karte von irgendeinem'
+Hmm, the northeast part of a map of some small  
 
 258332	36	b'kleinen Kontinent, wie es scheint...'
+continent, it seems...              
 
 258369	46	b'Hm, der Nordwest-Teil einer Karte von Veldoor.'
+Hmm, the northwest part of a map of Veldoor.  
 
 258416	44	b'Hm, der S\x81dost-Teil einer Karte von Veldoor.'
+Hmm, the southeast part of a map of Veldoor.
 
 258461	45	b'Hm, der S\x81dwest-Teil einer Karte von Veldoor.'
+Hmm, the southwest part of a map of Veldoor. 
 
 258507	26	b'Offenbar ein altes Relikt.'
+Ah, an ancient relic.     
 
 258534	30	b'Der Edelstein von Lakkasoor...'
+The gemstone of Lakkasoor...  
 
 258565	28	b'Eine gro\xe1e, leere Holzkiste.'
+A big, empty wooden box.    
 
 258594	22	b'Ein Z\x81chterzertifikat.'
+A breeder certificate.
 
 258617	42	b'Eine Eintrittskarte f\x81r die Z\x81chtertagung.'
+A ticket for the breeders' conference.    
 
 258660	46	b'Eine gro\xe1e Holzkiste, gef\x81llt mit Golaan\x81ssen.'
+A big wooden box, filled with Golaa nuts.     
 
 258707	31	b'Wau ! Der legend\x84re Quel-Than !'
+Wow! The legendary Quel-Than!  
 
 258739	43	b'Ein Urlaubsschein f\x81r kasernierte Soldaten.'
+A leave pass for barracked soldiers.       
 
 258783	48	b'Von einem Drakkenoffizier blanko unterschrieben.'
+Blank signed by a Drakken officer.              
 
 258832	48	b'Sein oder nicht sein, das ist hier die Frage...!'
+To be or not to be, that is the question...     
 
 258881	27	b'Eine wahrhaftige Luftbohne!'
+A genuine air bean!        
 
 258909	16	b'Nicht vergessen:'
+Don't forget:   
 
 258926	29	b'Nur unter Wasser einnehmen...'
+Take only under water...     
 
 258956	24	b'Eine verhutzelte Wurzel.'
+A wrinkled root.        
 
 258981	45	b'Riecht irgendwie nach Onkel Doktor, das Ding.'
+This thing smells like a doctor's office.    
 
 259027	31	b'Vielleicht eine Heilpflanze...?'
+Perhaps a medical plant...?    
 
 259059	36	b'Eine kleine, lila Bl\x81te. Wie h\x81bsch.'
+A small, purple blossom. How lovely.
 
 259096	43	b'Das ist der kleine Edelstein von Lurgard...'
+That's the small gemstone of Lurgard...    
 
 259140	40	b'Das ist der kleine Edelstein Mindhoor...'
+That's the small gemstone of Mindhoor...
 
 259181	40	b'Ein Goldpokal. Sicher eine Menge wert...'
+A golden chalice. Surely worth a lot... 
 
 259222	37	b'Na gut. Jetzt hab ich eine Breilatte.'
+Well, now I have a paste plank.      
 
 259260	26	b'Oder Lattenbrei. Und nun ?'
+Or plank paste. What now? 
 
 259287	27	b'Das wird nicht viel n\x81tzen.'
+That's not of much use.    
 
 259315	13	b'Sie ist leer.'
+It's empty.  
 
 259338	37	b'Ich habe die Maske schon aufgesetzt !'
+I'm already wearing the mask!        
 
 259376	25	b'Puuh - dieses Klebzeug...'
+Oof - this sticky stuff  
 
 259402	41	b'...das ist nicht auseinander zu bringen !'
+...can't pull it apart!                  
 
 259444	33	b'Ummpff... das ist kein Essen, das'
+Oof... that's not food, that's a 
 
 259478	26	b'ist die Wahl zum Freitod !'
+way to kill yourself!     
 
 264451	14	b'Anschlagebrett'
+Bulletin board
 
 264466	10	b'Dienstplan'
+Schedule  
 
 264477	11	b'Urlaubsplan'
+Vacations  
 
 264489	19	b'Zellenbelegungsplan'
+Cell occupancy plan
 
 264509	15	b'Schl\x81sselkasten'
+Key box        
 
 264525	11	b'Frachtpl\x84ne'
+Cargo plans
 
 264718	14	b'Drakkenoffzier'
+Drakkenofficer
 
 264733	6	b'Soldat'
+Soldr 
 
 264748	6	b'Keller'
+Cellar
 
 267822	6	b'Statue'
+Statue
 
 267834	16	b'funkelndes Etwas'
+Sparkling thing 
 
 267851	10	b'Sekamidoor'
+Sekamidoor
 
 268386	11	b'Tempelstadt'
+Temple city
 
 268411	4	b'Turm'
+Towr
 
 268416	11	b'Lichtstrahl'
+Light beam 
 
 268428	11	b'Steinquader'
+Stone block
 
 268440	6	b'Gusmar'
+Gusmar
 
 268452	10	b'Vertiefung'
+Recess    
 
 268463	5	b'Maomi'
+Maomi
 
 270755	11	b'Ruinenstadt'
+Ruin city  
 
 271336	4	b'Susi'
+Susi
 
 271371	7	b'Flocken'
+Flakes 
 
 271379	12	b'Drachenfeuer'
+Dragon fire 
 
 276706	6	b'Becken'
+Pool  
 
 277875	16	b'Wasseroberfl\x84che'
+Water surface   
 
 277892	6	b'Felsen'
+Rock  
 
 277899	6	b'Tunnel'
+Tunnel
 
 277906	14	b'Schlingpflanze'
+Vine          
 
 279257	10	b'Wasserfall'
+Waterfall 
 
 279289	5	b'H\x81tte'
+Shed 
 
 279295	3	b'Zep'
+Zep
 
 289702	6	b'Urwald'
+Jungle
 
 289709	8	b'Felswand'
+Rockwall
 
 289728	7	b'Plateau'
+Plateau
 
 289736	5	b'Bl\x81te'
+Flowr
 
 290952	6	b'Tempel'
+Temple
 
 290959	12	b'Tempelportal'
+Templeportal
 
 290972	10	b'Urwaldpfad'
+Junglepath
 
 290983	7	b'Josbaol'
+Josbaol
 
 291000	10	b'Einsiedler'
+Hermit    
 
 291928	12	b'Hinterzimmer'
+Back room   
 
 291941	3	b'T\x81r'
+Dor
 
 292585	9	b'Hintert\x81r'
+Backdoor 
 
 292595	5	b'Leute'
+Guys 
 
 292601	4	b'Wirt'
+Host
 
 293766	6	b'M\x84nner'
+Men   
 
 294589	9	b'Wahringen'
+Wahringen
 
 294599	5	b'Mauer'
+Wall 
 
 294605	8	b'H\x84uschen'
+Cottage 
 
 294614	11	b'Kasernentor'
+Barrackgate
 
 294626	10	b'Wachsoldat'
+Guard     
 
 294637	10	b'Marktplatz'
+Square    
 
 294648	7	b'Eingang'
+Entran 
 
 295586	9	b'Flugplatz'
+Airport  
 
 295604	9	b'Wirtshaus'
+Tavern   
 
 295622	10	b'Warenstand'
+Booth     
 
 295633	14	b'Schweinsbohnen'
+Lima beans    
 
 295648	10	b'Golaan\x81sse'
+Golaa nuts
 
 295659	10	b'Bullerkohl'
+Kale      
 
 295670	9	b'Dapfsalat'
+Lettuce  
 
 295680	9	b'Holzkiste'
+Woodenbox
 
 295690	7	b'Magolia'
+Magolia
 
 296916	10	b'Stallungen'
+Stables   
 
 296927	9	b'Frachtgut'
+Cargo    
 
 296948	12	b'Stallmeister'
+Stablemaster
 
 298318	8	b'Laderaum'
+C.hold  
 
 298331	10	b'Holzkisten'
+Crates    
 
 298342	7	b'M\x84dchen'
+Girl   
 
 298910	19	b'r\x84tselhaftes Objekt'
+mysterious object  
 
 299541	5	b'W\x81ste'
+desrt
 
 299554	6	b'Mulloh'
+Mulloh
 
 303875	6	b'Ruinen'
+Ruins 
 
 303882	10	b'Landschaft'
+Landscape 
 
 303899	7	b'Mullooh'
+Mullooh
 
 304994	4	b'Mann'
+Man 
 
 304999	12	b'S\x81dmeerfleck'
+Sudmeerfleck
 
 305023	7	b'Majulie'
+Majulie
 
 305031	5	b'Hafen'
+Port 
 
 305037	6	b'Stra\xe1e'
+Street
 
 305882	11	b'Felspfeiler'
+Rock pillar
 
 305894	15	b'Mullooh-Verleih'
+Mullooh rental 
 
 305910	7	b'Baracke'
+Barrack
 
 305923	6	b'Remgur'
+Remgur
 
 305930	5	b'Alina'
+Alina
 
 307647	10	b'Landeplatz'
+Landing   
 
 307702	8	b'Graubart'
+Graubart
 
 309512	13	b'Drachenstatue'
+Dragon statue
 
 309526	4	b'Horn'
+Horn
 
 309531	4	b'Auge'
+Eye 
 
 309554	7	b'Spiegel'
+Mirror 
 
 311785	5	b'Boden'
+Floor
 
 312940	6	b'Osthor'
+Osthor
 
 312947	6	b'B\x81ndel'
+Bundle
 
 312954	11	b'Sahnetorten'
+Cream cake 
 
 312966	4	b'Dose'
+Can 
 
 312971	6	b'Messer'
+Knife 
 
 313865	4	b'Gast'
+Gest
 
 313875	7	b'Drakken'
+Drakken
 
 313883	4	b'Frau'
+Wman
 
 318181	4	b'Dorf'
+Town
 
 318186	5	b'Berge'
+Mntns
 
 318216	11	b'drei Br\x81der'
+3 brothers 
 
 318228	6	b'Fetzen'
+Shred 
 
 318235	9	b'Landebahn'
+Runway   
 
 323597	11	b'Kr\x84merladen'
+Store      
 
 323627	8	b'Polizist'
+Police  
 
 323636	6	b'Plakat'
+Poster
 
 324754	8	b'Bergpfad'
+Path    
 
 324770	14	b'Drachengesicht'
+Dragon face   
 
 324785	11	b'linkes Auge'
+Left eye   
 
 324797	12	b'rechtes Auge'
+Right eye   
 
 325981	9	b'Ortschaft'
+Village  
 
 325991	13	b'Wegabzweigung'
+Fork in road 
 
 329364	8	b'Soldaten'
+Soldiers
 
 330596	7	b'Gel\x84nde'
+Terrain
 
 330604	12	b'Stabsgeb\x84ude'
+Staff house 
 
 330617	11	b'Unterk\x81nfte'
+Lodgings   
 
 330640	3	b'Ufo'
+UFO
 
 330644	8	b'Schuppen'
+Shed    
 
 330653	6	b'Bunker'
+Bunker
 
 332002	5	b'Tisch'
+Table
 
 332008	19	b'Objekt der Begierde'
+Object of desire   
 
 332043	5	b'Zelle'
+Cell 
 
 332772	9	b'Zelle 201'
+Cell 201 
 
 332782	5	b'Dummy'
+Dummy
 
 336434	49	b'Verdammt. Entweder hat den Gang jemand gebuddelt,'
+Damn. Either somebody dug this tunnel to reach   
 
 336484	34	b'um zu seiner Liebsten zu gelangen,'
+his beloved, or he's got all his  
 
 336519	32	b'oder er war nicht ganz dicht...!'
+biscuits in the jam jar...!     
 
 337750	9	b'Zelle 103'
+Cell 103 
 
 337760	20	b'Ende des Geheimgangs'
+End of secret path  
 
 346276	7	b'Fenster'
+Window 
 
 346284	39	b'Hier kommst Du nicht mehr raus ! Haha !'
+You won't get out of here! Haha!       
 
 349459	9	b'Amtsstube'
+Office   
 
 350890	6	b'Aufbau'
+Aufbau
 
 350903	5	b'Pilot'
+Pilot
 
 352905	8	b'Portrait'
+Portrait
 
 352926	11	b'Lasergewehr'
+Laser gun  
 
 352938	12	b'Laserpistole'
+Laser pistol
 
 353703	39	b'Wau ! Das sind ja vielleicht H\x94hlen...!'
+Wow! Those are quite some caverns...!  
 
 353758	7	b'Drachen'
+Dragon 
 
 353766	9	b'Plattform'
+Platform 
 
 353780	3	b'Tal'
+Val
 
 353784	8	b'Bl\x81mchen'
+Flower  
 
 353793	8	b'Skulptur'
+Sculptur
 
 353802	8	b'Wachmann'
+Guard   
 
 353811	12	b'St\x81tzpfeiler'
+Suppportbeam
 
 355180	3	b'Rad'
+Rim
 
 355859	8	b'Fahrzeug'
+Vehicle 
 
 355868	10	b'Felsbr\x81cke'
+Rockbridge
 
 355879	6	b'Himmel'
+Heaven
 
 356761	5	b'Regal'
+Shelf
 
 356767	5	b'Hebel'
+Lever
 
 356773	8	b'Werkbank'
+Wrkbench
 
 356789	8	b'Aggregat'
+Machine 
 
 356816	18	b'Planetenoberfl\x84che'
+Planet surface    
 
 356835	8	b'Schalter'
+Button  
 
 356897	5	b'Klotz'
+Block
 
 358939	4	b'Luke'
+Port
 
 358953	10	b'Raumschiff'
+Space ship
 
 358964	10	b'Bergzinken'
+Peak      
 
 364422	32	b'Maomi, was willst Du denn hier ?'
+Maomi, what are you doing here? 
 
 364455	40	b'Los verschwinde wieder an Deinen Platz !'
+Come on, go back to your place!         
 
 364496	16	b'Was sagtest Du ?'
+What'd you say? 
 
 364514	59	b'...die altbayrischen Sitten wieder einzuf\x81hren, bla, bla...'
+...to get back old Bavarian customs, blah, blah...         
 
 364574	50	b'...und dann kam dieser Mann und sagte, bla, bla...'
+...and then this man came and said, blah blah...  
 
 364625	49	b'...ich besuchte dann das Oktoberfest, bla, bla...'
+...I visited the Oktoberfest, blah, blah...      
 
 364675	43	b'...und nun bin ich hier ! Gut, nicht wahr ?'
+...and now I'm here! Good, right?          
 
 378383	35	b'Pfui Deibel ! So eine Gemeinheit...'
+FFS! That's so mean...             
 
 378419	30	b'...wo ist die n\x84chste Dusche ?'
+...where's the nearest shower?
 
 425987	12	b'Schleusent\x81r'
+Airlock     
 
 426006	5	b'Taste'
+Buttn
 
 426012	7	b'Messuhr'
+Gauge  
 
 426020	11	b'Fensterchen'
+Window     
 
 426045	13	b'Pilotensessel'
+Pilot seat   
 
 426059	8	b'Konsolen'
+Consoles
 
 426095	3	b'Cal'
+Cal
 
 426109	9	b'Schl\x81ssel'
+Key      
 
 434279	11	b'Untersuche '
+Examine    
 
 434291	8	b'Benutze '
+Use     
 
 434300	11	b'Sprich mit '
+Talk to    
 
 434312	5	b'Nimm '
+Take 
 
 434318	6	b'Drehe '
+Turn  
 
 434325	7	b'Dr\x81cke '
+Push   
 
 434333	6	b'Grabe '
+Dig   
 
 434340	7	b'Klopfe '
+Knock  
 
 434348	12	b'Schlage ein '
+Punch       
 
 434361	8	b'Schiebe '
+Push    
 
 434370	9	b'Schlie\xe1e '
+Close    
 
 434380	7	b'Starte '
+Start  
 
 434388	7	b'Stecke '
+Plugin 
 
 434396	10	b'Steig ins '
+Enter     
 
 434407	11	b'Verschiebe '
+Move       
 
 434419	5	b'Wirf '
+Throw
 
 434425	6	b'\x99ffne '
+Open  
 
 434432	6	b'Ziehe '
+Pull  
 
 434439	6	b'F\x81lle '
+Fill  
 
 434446	5	b'Haue '
+Punch
 
 434452	10	b'Ignoriere '
+Ignore    
 
 434463	3	b'I\xe1 '
+Eat
 
 434467	6	b'Leere '
+Empty 
 
 434474	7	b'Rieche '
+Smell  
 
 434482	9	b'Schmiere '
+Smudge   
 
 434492	9	b'Zerst\x94re '
+Destroy  
 
 434502	10	b'Vernichte '
+Destroy   
 
 434513	6	b'Rei\xe1e '
+Tear  
 
 434520	8	b'Verhaue '
+Beat up 
 
 434529	10	b'Steig auf '
+Climb on  
 
 434540	10	b'Tauche in '
+Dive in   
 
 434551	8	b'Zerlege '
+Dismount
 
 434590	9	b'Atemmaske'
+Breather 
 
 434622	5	b'Blume'
+Flowr
 
 434676	9	b'Breilatte'
+Plank    
 
 434686	13	b'Passierschein'
+Permit       
 
 434700	16	b'Polizeiabzeichen'
+Badge           
 
 434717	8	b'Golaanu\xe1'
+Gonaanut
 
 434737	9	b'Handschuh'
+Glove    
 
 434772	9	b'Stinkpilz'
+Stinktoad
 
 434782	10	b'Ausr\x81stung'
+Gear      
 
 434793	9	b'Geldb\x94rse'
+Purse    
 
 434803	4	b'Geld'
+Gold
 
 434808	14	b'Eintrittskarte'
+Entry ticket  
 
 434823	5	b'Torte'
+Cake 
 
 434829	8	b'Bierdose'
+Bear can
 
 434838	8	b'P\x84ckchen'
+Parcel  
 
 434847	8	b'Karte NO'
+Map NE  
 
 434856	8	b'Karte NW'
+Map NW  
 
 434865	8	b'Karte SO'
+Map SE  
 
 434874	8	b'Karte SW'
+Map SW  
 
 434883	6	b'Schale'
+Bowl  
 
 434900	19	b'Stein von Lakkasoor'
+Stone of Lakkasoor 
 
 434920	5	b'Kiste'
+Box  
 
 434926	10	b'Zertifikat'
+Certificat
 
 434937	10	b'Golaakiste'
+Golaa box 
 
 435139	6	b'Wurzel'
+Root  
 
 435152	5	b'Stock'
+Stick
 
 435168	15	b'grauwei\xe1er Pilz'
+graywhite toad 
 
 435184	5	b'Pokal'
+Cup  
 
 435198	8	b'Kristall'
+Crystal 
+
+193035	1	b' '
 
 473140	36	b'Ich erkenne nichts Besonderes daran.'
 
