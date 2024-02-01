@@ -2726,7 +2726,7 @@ Well, if this thing won't drive...
 I hope there's no speed limit in the cave world.      
 
 246924	27	b'Eine Klappe. Zum Zuklappen.'
-A flap. For closing.       
+A hood. For closing.       
 
 246952	29	b'Oder Aufklappen. Je nach dem.'
 Or opening. Depends.         
@@ -2780,7 +2780,7 @@ Look at that, it was the button for the hood.
 Machine 
 
 247454	6	b'Klappe'
-Flap  
+Hood  
 
 247461	8	b'Batterie'
 Battery 
