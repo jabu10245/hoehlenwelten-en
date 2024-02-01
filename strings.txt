@@ -2812,121 +2812,178 @@ Wheel
 247662	7	b'Cockpit'
 Cockpit
 
-193035	1	b' '
-
 247670	25	b'Hat sich was mit starten.'
+Something about starting.
 
 247696	32	b'Da ist ja gar kein Z\x81ndschl\x81ssel'
+There's no ignition key at all. 
 
 247729	36	b'Das ist jetzt wohl nicht mehr n\x94tig.'
+That's probably not necessary now.  
 
 247766	25	b'Na bitte, das passt ja...'
+There you go, it fits.   
 
 247792	25	b'Da fehlt wohl noch was...'
+Something's missing...   
 
 247818	38	b'Na, das sieht doch schon ganz gut aus.'
+There you go, looking pretty good.    
 
 252622	37	b'Da liegt etwas... ein kleines Buch...'
+What's that... a small book...       
 
 252661	35	b'Sieh an... da hat ein netter Mensch'
+Look, a kind person has deposited  
 
 252697	25	b'was f\x81r mich deponiert...'
+something for me...      
 
 256084	41	b'Das ist ein kleiner, silberner Schl\x81ssel.'
+That's a small silver key.               
 
 256127	39	b'Eine Sauerstoffpatrone. Universalmodell'
+An oxygen cartridge. Universal model   
 
 256167	40	b'f\x81r alle Atemmasken westlich und \x94stlich'
+for all breathing masks west and east of
 
 256208	29	b'des hei\xe1en Kerns der Galaxis.'
+the hot core of the galaxy.  
 
 256238	62	b'Hm. Wie`s scheint, ist das Ding momentan nicht mehr viel wert.'
+Hmm, it seems this thing isn't worth much anymore.            
 
 256301	33	b'Ein kleiner, rechteckiger Kasten.'
+A small rectangular box.         
 
 256335	32	b'Ziemlich schwer, wie es scheint.'
+Seems pretty heavy.             
 
 256368	45	b'Eine frisch geladene Batterie. Wie praktisch.'
+A freshly charged battery. How convenient.   
 
 256414	13	b'Was ist das ?'
+What is that?
 
 256428	41	b'Ein Art raumfahrttechnischer Bremsklotz ?'
+Some kind of spaceflight break block?    
 
 256501	32	b'Eine h\x81bsche Holzlatte. Kann man'
+A nice wooden plank. It could   
 
 256534	36	b'bestimmt mal nutzbringend einsetzen.'
+get in handy at some point.         
 
 256571	29	b'Ein Blechnapf - mit irgendwas'
+A tin bowl - with something  
 
 256601	30	b'absolut F\x81rchterlichem darin !'
+absolutely dreadful inside!   
 
 256632	24	b'Und... hm, einem L\x94ffel.'
+And... hmm, a spoon.    
 
 256657	37	b'Der Hauptschl\x81ssel f\x81r diesen Laden !'
+The main key for this place!         
 
 256695	31	b'Ha! Wenn das kein Triumph ist !'
+Ha! If that's not a triumph!   
 
 256727	39	b'Ein hilfreiches Utensil. Frisch gef\x81llt'
+A helpful utensil, and filled up       
 
 256767	28	b'mit einer Sauerstoffpatrone.'
+with an oxygen cartridge.   
 
 256796	35	b'Ich hab ihn von seiner Pein erl\x94st.'
+I've relieved him from his torment.
 
 256832	32	b'Igitt - was f\x81r ein Stinkezeug !'
+Yuck - what a stinky stuff!     
 
 256865	29	b'D\x81rfte kaum bek\x94mmlicher sein'
+It's probably as indigestible
 
 256895	30	b'als gew\x94hnlicher Stra\xe1en-Teer.'
+as ordinary road tar.         
 
 256926	24	b'Ein gew\x94hnlicher L\x94ffel.'
+An ordinary spoon.      
 
 256951	39	b'Als ehrlicher Besitzer dieses Spiels...'
+As honest owner of this game...        
 
 256991	38	b'finde ich es in der Spieleschachtel...'
+I find it in the game box...          
 
 257030	40	b'Als weniger ehrlicher Besitzer jedoch...'
+As a less honest owner, however...      
 
 257071	34	b'geht doch etliches Interessante...'
+quite a few interesting things... 
 
 257106	30	b'von dieser Welt an mir vorbei.'
+from this world go unnoticed. 
 
 257137	37	b'Hiermit ist ein neues Objekt geboren:'
+With this, a new object is born:     
 
 257175	32	b'Die ultimative BREILATTE ! Amen.'
+The ultimate paste plank! Amen. 
 
 257208	33	b'Ein Passierschein. Berechtigt zum'
+A pass permit. Authorizes entry  
 
 257242	49	b'Betreten der Kaserne um eine Lieferung Golaan\x81sse'
+into the barracks to deliver a shipment of Golaa 
 
 257292	11	b'zu bringen.'
+nuts.      
 
 257304	21	b'Ein Polizeiabzeichen.'
+A police badge.      
 
 257326	31	b'Wurde offenbar einem Polizisten'
+Apparently torn from a police  
 
 257358	30	b'von der Uniformjacke gerissen.'
+officer's uniform jacket.     
 
 257389	19	b'Ein Prachtexemplar.'
+A splendid specimen
 
 257409	23	b'Mit steinharter Schale.'
+with a stone-hard shell
 
 257433	35	b'Eine Portion matschiger Golaan\x81sse.'
+One portion of mushy golaa nuts.   
 
 257469	16	b'Nichts f\x81r mich.'
+Not for me.     
 
 257507	28	b'Es f\x84llt mir immer so schwer'
+It's always so hard for me  
 
 257536	23	b'alten Mist wegzuwerfen.'
+to throw away old junk.
 
 257560	46	b'Ein Messer bester h\x94hlenweltlerischer Machart.'
+A cave world style knife.                     
 
 257607	38	b'Von diesem Ding habe ich Susi befreit.'
+I liberated Susi from this thing.     
 
 257646	27	b'Eine Handvoll Drachenfeuer.'
+A handful of dragonfire.   
 
 257674	32	b'Bringt einen guten Handelspreis.'
+Fetches a good trade price.     
 
 257707	40	b'Ein Pilz. Er riecht ein bi\xe1chen komisch.'
+A mushroom. Smells funky.               
+
+193035	1	b' '
 
 257748	48	b'Eine Garnitur... nun: of badly worn Kletterzeug,'
 
