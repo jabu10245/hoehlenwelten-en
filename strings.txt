@@ -382,6 +382,30 @@ Map
 48719	9	b'Landkarte'
 Map      
 
+75796	5	b' mit '
+with 
+
+75802	4	b' in '
+in  
+
+75807	5	b' auf '
+on   
+
+75813	8	b'Schlage '
+Punch   
+
+75822	4	b' ein'
+on  
+
+75827	6	b'Rei\xe1e '
+Tear  
+
+75834	7	b' nieder'
+down   
+
+75842	5	b'Dummy'
+Dummy
+
 78949	11	b'R1LampenAus'
 R1LampenAus
 
@@ -3505,9 +3529,6 @@ Cell
 332772	9	b'Zelle 201'
 Cell 201 
 
-332782	5	b'Dummy'
-Dummy
-
 336434	49	b'Verdammt. Entweder hat den Gang jemand gebuddelt,'
 Damn. Either somebody dug this tunnel to reach   
 
@@ -3744,9 +3765,6 @@ Destroy
 
 434502	10	b'Vernichte '
 Destroy   
-
-434513	6	b'Rei\xe1e '
-Tear  
 
 434520	8	b'Verhaue '
 Beat up 
