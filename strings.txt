@@ -1639,6 +1639,9 @@ I'll catch a cold!
 192985	49	b'Ich wei\xe1 nicht... dieser Schatten da im Wasser...'
 I don't know... this shadow there in the water...
 
+193035	1	b' '
+ 
+
 193042	9	b'Sieh an !'
 Look!    
 
@@ -3844,111 +3847,162 @@ Cup
 435198	8	b'Kristall'
 Crystal 
 
-193035	1	b' '
-
 473140	36	b'Ich erkenne nichts Besonderes daran.'
+Nothing special about it.           
 
 473178	46	b'Hm. Diese Sachen passen wohl nicht zueinander.'
+Hmm. These things probably don't go together. 
 
 473225	38	b'Hm. Das ergibt eigentlich keinen Sinn.'
+Hmm. That doesn't really make sense.  
 
 473324	55	b'Nein, nein - das w\x84re nun wirklich albern, nicht wahr ?'
+No, no - that would be really silly, wouldn't it?      
 
 473380	23	b'Das funktioniert nicht.'
+That doesn't work.     
 
 473404	37	b'Niemand interessiert sich f\x81r mich...'
+Nobody is interested in me...        
 
 473442	54	b'Hm. Bin wohl nicht weiter interessant f\x81r so jemanden.'
+Hmm. I'm not too interesting for sombody like that.   
 
 473497	37	b'Ohweh... das w\x81rde nur \x8erger geben...'
+Oh, that would only lead to trouble. 
 
 473535	30	b'Damit kann man nicht sprechen.'
+You can't speak with it.      
 
 473566	38	b'Nein, nein. Das ist nichts zum nehmen.'
+No, no. That's not something to take. 
 
 473605	48	b'Hab ich doch schon. Noch mehr nehmen geht nicht.'
+I already have it. Can't take more of it.       
 
 473654	30	b'Ummpf... das Ding will nicht !'
+Oof... that doesn't work!     
 
 473685	58	b'Lieber nicht. Das wird mir nur Schwierigkeiten einbringen.'
+Better not. I don't want to get into any trouble.         
 
 473744	50	b'Verflixt... zu weit weg ! Da komm ich nicht `ran !'
+Damn... too far away! I can't reach it!           
 
 473795	47	b'Das ist viel zu schwer - das schaff` ich nicht.'
+That's way too difficult - I can't do it.      
 
 473843	34	b'Hier gibt es nichts zum mitnehmen.'
+There's nothing here to take.     
 
 473878	45	b'Daf\x81r hab ich jetzt nun wirklich keine Zeit !'
+I really don't have time for that right now! 
 
 473924	45	b'Lieber nicht. Damit kenne ich mich nicht aus.'
+Better not. I'm not familiar with that.      
 
 473970	44	b'Das ist jetzt noch zu fr\x81h. Lieber sp\x84ter...'
+It's too early for that now. Better later...
 
 474015	15	b'Hm. Geht nicht.'
+Doesn't work.  
 
 474079	40	b'Hm... da gibts nicht viel zum dr\x81cken...'
+Hmm... not much there to press...       
 
 474120	55	b'Mit blo\xe1en H\x84nden ? Was w\x81rde da meine Manik\x81re sagen ?'
+With bare hands? Would would my manicure say about it? 
 
 474176	14	b'Keine Antwort.'
+No answer.    
 
 474191	25	b'An offene T\x81ren klopfen ?'
+Knock at open doors?     
 
 474217	42	b'Das d\x81rfte mein Therapeut nicht erfahren !'
+My therapist mustn't find out about this. 
 
 474260	48	b'Ist doch offen ! Was soll ich da um mich hauen ?'
+Already open! Why should I fuss about it?       
 
 474309	47	b'Ziemlich m\x81hselig. Und auch ziemlich fruchtlos.'
+Quite tedious. And also quite fruitless.       
 
 474357	35	b'Da gibts nicht viel zum schieben...'
+There's nothing here to push...    
 
 474393	52	b'Sieht so aus, als g\x84be es da nichts zum schlie\xe1en...'
+Looks like there's nothing here to push...          
 
 474446	38	b'Ist schon zu. Noch mehr zu geht nicht.'
+Doesn't get any more closed than that.
 
 474485	30	b'Da r\x81hrt sich rein gar nichts.'
+Absolutely nothing happening. 
 
 474516	39	b'Na - das hat wohl nicht allzuviel Sinn.'
+Well, that doesn't make a lot of sense.
 
 474556	46	b'Das wird mein Problem leider auch nicht l\x94sen.'
+That won't solve my problem either, sadly.    
 
 474603	42	b'Lohnt sich nicht. Was soll da schon sein ?'
+Nah, what could possibly be there?        
 
 474646	46	b'Lieber nicht. Zielloses Kaputtmachen ist doof.'
+Better not. Senseless destruction is not cool.
 
 474693	37	b'Hm. So leicht wird das nicht gehen...'
+Hmm. It won't be that easy...        
 
 474731	46	b'Hm. Da scheint nichts zum Aufmachen zu sein...'
+There doesn't seem to be anything to open.    
 
 474778	39	b'Ist schon offen. Noch aufer geht nicht.'
+Already open. It doesn't open more.    
 
 474818	37	b'Keine Chance. Ist nicht aufzukriegen.'
+No chance. It can't be opened.       
 
 474856	55	b'Das ist `ne Zellent\x81r ! Die geht nicht so einfach auf !'
+That's a cell door! It doesn't just open that easily!  
 
 474912	41	b'Ich glaub, ich la\xe1` das Ding lieber hier.'
+I think I should leave that thing here.  
 
 474954	50	b'Hm. Ich glaube, da gibt`s nicht viel zum ziehen...'
+Hmm. I think there's not much to pull there...    
 
 475005	40	b'Hm. Das wird mir wohl kaum weiterhelfen.'
+Hmm. That won't be of much help.        
 
 475046	51	b'Ein grandiose Idee. Ich verpasse dem Kerl eins, und'
+A brilliant idea. I give the guy a hit, and then   
 
 475098	49	b'schmore dann den Rest meiner Tage in den Minen...'
+spend the rest of my days in the mines...        
 
 475148	52	b'Au ja ! Ich bleibe am besten hier sitzen bis zum Tag'
+Oh yes! I might as well just sit here until         
 
 475201	23	b'des j\x81ngsten Gericht...'
+Judgement Day...       
 
 475225	52	b'Um Himmels Willen... ich bin doch nicht lebensm\x81de !'
+For heaven's sake... I'm not suicidal!              
 
 475278	44	b'Ist doch schon leer. Noch leerer geht nicht.'
+It's already empty. Doesn't get any emptier.
 
 475323	54	b'Puuh - das riecht nach dem, was vorher mal drin war...'
+Eww - that smells like whatever was in there before...
 
 475378	51	b'Das Zeug riecht wie bester, klebriger Stra\xe1en-Teer.'
+That stuff smells like the best sticky street tar. 
 
 475430	46	b'Nein - das w\x81rde mir wohl nicht viel n\x81tzen...'
+No, that wouldn't be of much use...           
 
 475477	30	b'Das hat sowieso keinen Sinn...'
+That doesn't make any sense...
 
