@@ -1,5 +1,9 @@
 # Höhlenwelten - Der leuchtende Kristall
 
+
+** Disclaimer: ** It turns out there is a lot more text that can't be translated with this method. Unless I figure out a way to extract them, this projectt is useless.
+
+
 This project patches the executable `HW.EXE` in the German game Höhlenweiten with translations into English.
 
 For running the patch, execute the commands below. Before running those commands, you have to have the game installed somewhere.
